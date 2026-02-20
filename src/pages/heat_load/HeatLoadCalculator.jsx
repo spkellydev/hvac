@@ -1,12 +1,16 @@
 import React, { useState, useEffect, useRef } from 'react';
 import {
-    CLIMATE_ZONES,
-    BUILDING_PRESETS,
-    EQUIPMENT_STANDARD_SIZES,
-    MANUAL_J_STATE,
+    ManualJFieldConstants as Constants,
     HeatLoadCalculator as Calculator
 } from '../../utils/heatLoadLogic';
 import './styles.scss'
+
+var {
+    CLIMATE_ZONES,
+    BUILDING_PRESETS,
+    EQUIPMENT_STANDARD_SIZES,
+    STATE
+} = new Constants();
 
 const HeatLoadCalculator = () => {
     // --- State ---
@@ -17,7 +21,7 @@ const HeatLoadCalculator = () => {
     const [activePreset, setActivePreset] = useState(null);
     const resultsRef = useRef(null);
 
-    const [formData, setFormData] = useState(MANUAL_J_STATE);
+    const [formData, setFormData] = useState(STATE);
 
     // --- Effects ---
 

@@ -99,6 +99,105 @@ export const WINDOW_TYPES = {
 
 export const EQUIPMENT_STANDARD_SIZES = [1.5, 2, 2.5, 3, 3.5, 4, 5];
 
+export class ManualJFieldConstants {
+    constructor() {
+        this.STATE = {
+            // Basic Info
+            buildingArea: '',
+            ceilingHeight: 8,
+            occupancy: 4,
+            orientation: 'south',
+            // Building Details
+            windowPercentage: 15,
+            insulationLevel: 'average',
+            windowType: 'double',
+            foundationType: 'slab',
+            // Climate
+            climateZone: 'mixed-humid',
+            // Advanced / Calculated (Inputs)
+            outdoorDesignTempWinter: 15,
+            outdoorDesignTempSummer: 90,
+            humidityRatio: 90,
+            airChanges: 0.5,
+            ventilationCFM: 0,
+            // Calculated Areas (Read-only in UI but stored here)
+            wallArea: 0,
+            windowArea: 0,
+            roofArea: 0,
+            doorArea: 40,
+            floorArea: 0,
+            // Calculated U-Values
+            wallUValue: 0.08,
+            roofUValue: 0.03,
+            floorUValue: 0.05,
+            windowUValue: 0.45,
+            windowSHGC: 0.4,
+            doorUValue: 0.2,
+            // Loads
+            applianceLoad: 0,
+            lightingLoad: 0,
+            // Hidden constants
+            indoorDesignTempWinter: 70,
+            indoorDesignTempSummer: 75
+        }
+        this.SOLAR_HEAT_GAIN_FACTORS = {
+            north: 15,
+            south: 50,
+            east: 120,
+            west: 120,
+            northeast: 80,
+            northwest: 80,
+            southeast: 100,
+            southwest: 100,
+            mixed: 80
+        };
+        this.FOUNDATION_FACTORS = {
+            slab: 0.8,      // F-factor for slab edge
+            basement: 1.0,  // Below-grade wall factor
+            crawlspace: 1.2 // Exposed floor factor
+        };
+        this.CLIMATE_ZONES = {
+            'hot-humid': { winterTemp: 30, summerTemp: 95, humidity: 100 },
+            'hot-dry': { winterTemp: 25, summerTemp: 105, humidity: 60 },
+            'mixed-humid': { winterTemp: 15, summerTemp: 90, humidity: 90 },
+            'mixed-dry': { winterTemp: 5, summerTemp: 95, humidity: 70 },
+            'cold': { winterTemp: -5, summerTemp: 85, humidity: 80 },
+            'very-cold': { winterTemp: -15, summerTemp: 80, humidity: 75 }
+        };
+        this.BUILDING_PRESETS = {
+            'new-construction': {
+                insulationLevel: 'good',
+                windowType: 'double-low-e',
+                airChanges: 0.3
+            },
+            'existing-home': {
+                insulationLevel: 'average',
+                windowType: 'double',
+                airChanges: 0.5
+            },
+            'older-home': {
+                insulationLevel: 'poor',
+                windowType: 'single',
+                airChanges: 0.8
+            }
+        };
+        this.INSULATION_U_VALUES = {
+            poor: { wall: 0.15, roof: 0.08, floor: 0.08 },
+            average: { wall: 0.08, roof: 0.03, floor: 0.05 },
+            good: { wall: 0.05, roof: 0.025, floor: 0.03 },
+            excellent: { wall: 0.03, roof: 0.018, floor: 0.02 }
+        };
+        this.WINDOW_TYPES = {
+            single: { uValue: 0.9, shgc: 0.6 },
+            double: { uValue: 0.45, shgc: 0.4 },
+            'double-low-e': { uValue: 0.3, shgc: 0.3 },
+            triple: { uValue: 0.2, shgc: 0.25 }
+        };
+        this.EQUIPMENT_STANDARD_SIZES = [1.5, 2, 2.5, 3, 3.5, 4, 5];
+    }
+}
+
+
 export class HeatLoadCalculator {
     static calculateDerivedValues(data) {
         const area = parseFloat(data.buildingArea) || 0;
