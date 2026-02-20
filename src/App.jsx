@@ -6,7 +6,7 @@ import data_set from './data/course4.json';
 import QuizCard from './pages/Quiz/QuizCard';
 import PPTViewer from './pages/PPTViewer';
 import HeatLoadCalculator from './pages/heat_load/HeatLoadCalculator';
-import Home from './Home';
+import Home from './pages/Home';
 
 const questions = data_set.questions; 
 
