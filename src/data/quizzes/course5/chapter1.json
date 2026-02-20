@@ -1,0 +1,196 @@
+{
+  "course": 5,
+  "course_name": "Hydronic Heating Systems",
+  "questions": [
+    {
+      "id": 1,
+      "chapter": 1,
+      "type": "multiple_choice",
+      "question": "The term ___ radiant temperature describes the area-weighted average temperature of all surfaces within a room.",
+      "options": ["prescribed", "mean", "steady-state", "effective"],
+      "correct_answer": "mean"
+    },
+    {
+      "id": 2,
+      "chapter": 1,
+      "type": "multiple_choice",
+      "question": "Water has many characteristics that make it ideal for a hydronic system. It is readily available, nontoxic, nonflammable, and has one of the highest ____ storage abilities of any material known to man.",
+      "options": ["heat", "vapor", "molecular", "liquid"],
+      "correct_answer": "heat"
+    },
+    {
+      "id": 3,
+      "chapter": 1,
+      "type": "true_false",
+      "question": "Thermal radiation is probably the most understood mode of heat transfer.",
+      "correct_answer": "False"
+    },
+    {
+      "id": 4,
+      "chapter": 1,
+      "type": "multiple_choice",
+      "question": "Heat always moves from an area of ____ temperature to an area of ____ temperature.",
+      "options": ["dry-bulb, wet-bulb", "higher, lower", "cold, heat", "lower, higher"],
+      "correct_answer": "higher, lower"
+    },
+    {
+      "id": 5,
+      "chapter": 1,
+      "type": "true_false",
+      "question": "Maintaining comfort is simply a matter of supplying heat to the body.",
+      "correct_answer": "False"
+    },
+    {
+      "id": 6,
+      "chapter": 1,
+      "type": "true_false",
+      "question": "Ideally, the water in a hydronic heating system remains in the system year after year.",
+      "correct_answer": "True"
+    },
+    {
+      "id": 7,
+      "chapter": 1,
+      "type": "multiple_choice",
+      "question": "When fluid motion is caused by either a circulator, blower, or fan, the resulting heat transfer is more specifically called ____.",
+      "options": ["power convection", "forced convection", "super convection", "solid convection"],
+      "correct_answer": "forced convection"
+    },
+    {
+      "id": 8,
+      "chapter": 1,
+      "type": "multiple_choice",
+      "question": "Heat is our perception of atomic vibrations within a material. Our means of expressing the intensity of these vibrations is called ___.",
+      "options": ["temperature", "harmonics", "tuning", "cellular reaction"],
+      "correct_answer": "temperature"
+    },
+    {
+      "id": 9,
+      "chapter": 1,
+      "type": "true_false",
+      "question": "All heating systems consist of devices that convert one form of energy into another.",
+      "correct_answer": "True"
+    },
+    {
+      "id": 10,
+      "chapter": 1,
+      "type": "multiple_choice",
+      "question": "The emergence of electrically powered ____ made it possible to move water at higher flow rates through much more elaborate piping systems.",
+      "options": ["strainers", "circulators", "separators", "motors"],
+      "correct_answer": "circulators"
+    },
+    {
+      "id": 11,
+      "chapter": 1,
+      "type": "multiple_choice",
+      "question": "Buildings with hydronic heating systems have shown ____ heating energy use compared to equivalent structures with forced-air heating systems.",
+      "options": ["lower", "higher", "equal", "unquantifiable"],
+      "correct_answer": "lower"
+    },
+    {
+      "id": 12,
+      "chapter": 1,
+      "type": "true_false",
+      "question": "Properly designed hydronic systems control both the air temperature and surface temperatures of rooms to maintain optimal system water level.",
+      "correct_answer": "False"
+    },
+    {
+      "id": 13,
+      "chapter": 1,
+      "type": "multiple_choice",
+      "question": "Modern controls can maintain room air temperature +/- ___ °F of the desired setpoint temperature.",
+      "options": ["7", "2", "5", "1"],
+      "correct_answer": "1"
+    },
+    {
+      "id": 14,
+      "chapter": 1,
+      "type": "true_false",
+      "question": "Providing comfort is the primary objective of any heating system designer or installer.",
+      "correct_answer": "True"
+    },
+    {
+      "id": 15,
+      "chapter": 1,
+      "type": "true_false",
+      "question": "Hydronic heating systems use water (or water-based solutions) to move thermal energy from where it is produced to where it is needed.",
+      "correct_answer": "True"
+    },
+    {
+      "id": 16,
+      "chapter": 1,
+      "type": "multiple_choice",
+      "question": "In single-loop systems, the ____ prevents hot water in the boiler from slowly circulating through the distribution system when the circulator is off.",
+      "options": ["diaphragm", "power switch", "flow-check valve", "up-flow valve"],
+      "correct_answer": "flow-check valve"
+    },
+    {
+      "id": 17,
+      "chapter": 1,
+      "type": "true_false",
+      "question": "The simplest hydronic system can be described as a loop or piping circuit.",
+      "correct_answer": "True"
+    },
+    {
+      "id": 18,
+      "chapter": 1,
+      "type": "multiple_choice",
+      "question": "An air separator is designed to separate air from water and eject it from the system. The process is ____ the water is heated.",
+      "options": ["enhanced as", "unnecessary if", "not affected if", "more difficult if"],
+      "correct_answer": "enhanced as"
+    },
+    {
+      "id": 19,
+      "chapter": 1,
+      "type": "true_false",
+      "question": "In single-loop systems, the flow-check valve allows hot water in the boiler to slowly circulate through the distribution system when the circulator is off.",
+      "correct_answer": "False"
+    },
+    {
+      "id": 20,
+      "chapter": 1,
+      "type": "multiple_choice",
+      "question": "The difference in energy use by various heating and cooling distribution systems can be quantified using the concept of ____.",
+      "options": ["relative efficiency", "distribution efficiency", "heat water efficiency", "combined efficiency"],
+      "correct_answer": "distribution efficiency"
+    },
+    {
+      "id": 21,
+      "chapter": 1,
+      "type": "true_false",
+      "question": "A properly designed and installed hydronic system can operate with virtually no detectable sound levels in the occupied areas of a home.",
+      "correct_answer": "True"
+    },
+    {
+      "id": 22,
+      "chapter": 1,
+      "type": "multiple_choice",
+      "question": "Distribution efficiency (Btu/h/watt) is equal to the rate of thermal energy delivery divided by the electrical power required to operate the distribution system.",
+      "options": ["totaled with", "multiplied-by", "divided-by", "subtracted from"],
+      "correct_answer": "divided-by"
+    },
+    {
+      "id": 23,
+      "chapter": 1,
+      "type": "multiple_choice",
+      "question": "An air separator is designed to separate air from water and eject it from the system. The process is ____ the water is heated.",
+      "options": ["more difficult if", "not affected if", "unnecessary if", "enhanced as"],
+      "correct_answer": "enhanced as"
+    },
+    {
+      "id": 24,
+      "chapter": 1,
+      "type": "multiple_choice",
+      "question": "Hydronic systems that transfer the majority of their heat by thermal radiation reduce air temperature ____ and thus reduce heat loss through ceilings.",
+      "options": ["vaporization", "stratification", "normalizing", "drops"],
+      "correct_answer": "stratification"
+    },
+    {
+      "id": 25,
+      "chapter": 1,
+      "type": "multiple_choice",
+      "question": "Heat emitters that use fans or blowers to force air through a heat exchanger are usually called fan coils or air ____. ",
+      "options": ["tunnels", "blowers", "handlers", "baffles"],
+      "correct_answer": "handlers"
+    }
+  ]
+}
