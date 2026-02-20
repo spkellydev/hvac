@@ -7,6 +7,7 @@ import QuizCard from './pages/Quiz/QuizCard';
 import PPTViewer from './pages/PPTViewer';
 import HeatLoadCalculator from './pages/heat_load/HeatLoadCalculator';
 import Home from './pages/Home';
+import Troubleshooting from './pages/Troubleshooting';
 
 const questions = data_set.questions; 
 
@@ -35,6 +36,7 @@ const Navigation = () => {
         <Link to="/quiz" className={`nav-link ${pathname === '/quiz' ? 'active' : ''}`} onClick={() => setIsOpen(false)}>Quiz</Link>
         <Link to="/ppt" className={`nav-link ${pathname === '/ppt' ? 'active' : ''}`} onClick={() => setIsOpen(false)}>PPT Viewer</Link>
         <Link to="/heat-load" className={`nav-link ${pathname === '/heat-load' ? 'active' : ''}`} onClick={() => setIsOpen(false)}>Heat Load Calculator</Link>
+        <Link to="/troubleshooting" className={`nav-link ${pathname === '/troubleshooting' ? 'active' : ''}`} onClick={() => setIsOpen(false)}>Troubleshooting</Link>
       </nav>
     </>
   );
@@ -104,6 +106,7 @@ function App() {
           } />
           <Route path="/ppt" element={<PPTViewer />} />
           <Route path="/heat-load" element={<HeatLoadCalculator />} />
+          <Route path="/troubleshooting" element={<Troubleshooting />} />
           <Route path="*" element={<Navigate to="/" replace />} />
         </Routes>
       </div>
