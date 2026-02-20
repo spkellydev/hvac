@@ -1,6 +1,6 @@
 import React, { useState, useRef, useEffect } from 'react';
 import { BrowserRouter as Router, Routes, Route, Link, useLocation, Navigate } from 'react-router-dom';
-import './App.css';
+import './assets/App.scss';
 import './assets/styles.css';
 import data_set from './data/course4.json';
 import QuizCard from './pages/Quiz/QuizCard';
