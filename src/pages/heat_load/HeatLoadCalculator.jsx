@@ -3,7 +3,7 @@ import {
     ManualJFieldConstants as Constants,
     HeatLoadCalculator as Calculator
 } from '../../utils/heatLoadLogic';
-import './styles.scss'
+import './HeatLoadCalculator.scss'
 
 var {
     CLIMATE_ZONES,
