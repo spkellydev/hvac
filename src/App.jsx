@@ -1,7 +1,7 @@
 import React, { useState, useRef, useEffect } from 'react';
 import { BrowserRouter as Router, Routes, Route, Link, useLocation, Navigate } from 'react-router-dom';
-import './assets/App.scss';
-import './assets/styles.css';
+import './App.scss';
+import './assets/styles.scss';
 import data_set from './data/course4.json';
 import QuizCard from './pages/Quiz/QuizCard';
 import PPTViewer from './pages/PPTViewer';
@@ -13,14 +13,30 @@ const questions = data_set.questions;
 const Navigation = () => {
   const location = useLocation();
   const { pathname } = location;
+  const [isOpen, setIsOpen] = useState(false);
 
   return (
-    <nav className="app-nav">
-      <Link to="/" className={`nav-link ${pathname === '/' ? 'active' : ''}`}>Home</Link>
-      <Link to="/quiz" className={`nav-link ${pathname === '/quiz' ? 'active' : ''}`}>Quiz</Link>
-      <Link to="/ppt" className={`nav-link ${pathname === '/ppt' ? 'active' : ''}`}>PPT Viewer</Link>
-      <Link to="/heat-load" className={`nav-link ${pathname === '/heat-load' ? 'active' : ''}`}>Heat Load Calculator</Link>
-    </nav>
+    <>
+      <button 
+        className="nav-toggle-btn" 
+        onClick={() => setIsOpen(true)}
+        aria-label="Open navigation menu"
+      >
+        ☰
+      </button>
+      
+      {isOpen && <div className="nav-overlay" onClick={() => setIsOpen(false)} />}
+
+      <nav className={`app-nav ${isOpen ? 'open' : ''}`}>
+        <button className="nav-close-btn" onClick={() => setIsOpen(false)} aria-label="Close navigation menu">
+          &times;
+        </button>
+        <Link to="/" className={`nav-link ${pathname === '/' ? 'active' : ''}`} onClick={() => setIsOpen(false)}>Home</Link>
+        <Link to="/quiz" className={`nav-link ${pathname === '/quiz' ? 'active' : ''}`} onClick={() => setIsOpen(false)}>Quiz</Link>
+        <Link to="/ppt" className={`nav-link ${pathname === '/ppt' ? 'active' : ''}`} onClick={() => setIsOpen(false)}>PPT Viewer</Link>
+        <Link to="/heat-load" className={`nav-link ${pathname === '/heat-load' ? 'active' : ''}`} onClick={() => setIsOpen(false)}>Heat Load Calculator</Link>
+      </nav>
+    </>
   );
 };
 
