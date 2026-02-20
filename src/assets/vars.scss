@@ -1,0 +1,47 @@
+/* From assets/styles.scss */
+$fresh-sky: #4DAFE0;
+$lobster-pink: #F06065;
+$dim-grey: #696668;
+$white: #FFFFFF;
+$dust-grey: #D3D3D4;
+$bg-color: #f4f7f6;
+
+/* From pages/heat_load/styles.scss */
+$bg-primary: #0a0b0d;
+$bg-secondary: #1a1d23;
+$bg-tertiary: #252832;
+$bg-accent: #2d3140;
+
+$text-primary: #e4e6ea;
+$text-secondary: #b0b3b8;
+$text-muted: #8a8d93;
+
+$border-primary: #3a3d4a;
+$border-secondary: #252832;
+
+$accent-primary: #00d4ff;
+$accent-secondary: #0099cc;
+$accent-gradient: linear-gradient(135deg, #00d4ff 0%, #0099cc 100%);
+
+$success-color: #00c851;
+$success-bg: rgba(0, 200, 81, 0.1);
+
+$warning-color: #ffbb33;
+$warning-bg: rgba(255, 187, 51, 0.1);
+
+$error-color: #ff4444;
+$error-bg: rgba(255, 68, 68, 0.1);
+
+$shadow-light: rgba(0, 0, 0, 0.2);
+$shadow-medium: rgba(0, 0, 0, 0.4);
+$shadow-heavy: rgba(0, 0, 0, 0.6);
+
+$blur-light: blur(10px);
+$blur-medium: blur(20px);
+
+$transition-fast: all 0.2s ease;
+$transition-medium: all 0.3s ease;
+$transition-slow: all 0.5s ease;
+
+$border-radius: 12px;
+$border-radius-large: 20px;
