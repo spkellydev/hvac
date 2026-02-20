@@ -1,0 +1,123 @@
+{
+  "source_file": "RACT_9e_Ch10.pptx",
+  "unit": "Unit 10 System Charging",
+  "section": "Section 2 Safety Tools and Equipment and Shop Practices",
+  "slides": [
+    {
+      "slide_number": 1,
+      "title": "Charging a Refrigeration System",
+      "bullets": [
+        "Correct charge must be added for a refrigeration system to operate as designed",
+        "Use a scale to determine the amount of refrigerant added to a system",
+        "Evaluate the charge using either superheat and subcooling calculations or manufacturer-supplied charts and tables"
+      ]
+    },
+    {
+      "slide_number": 2,
+      "title": "Vapor Refrigerant Charging",
+      "bullets": [
+        "Vapor can be added to the high- and low-pressure sides when system pressure is lower than tank pressure",
+        "Vapor can be added to the low-pressure side while the system is operating",
+        "Cylinder may need to be warmed to build pressure to charge the system",
+        "Warm water can be used; never use a torch"
+      ]
+    },
+    {
+      "slide_number": 3,
+      "title": "Cylinder Temperature and Pressure",
+      "bullets": [
+        "Figure 10.2: Example — cylinder temperature 95°F, cylinder pressure 114 psig, low-side pressure 20 psig"
+      ]
+    },
+    {
+      "slide_number": 4,
+      "title": "Liquid Refrigerant Charging",
+      "bullets": [
+        "When system has been evacuated, liquid refrigerant can be added through the liquid line service valve (king valve) or receiver",
+        "Low-pressure control may need to be bypassed during charging",
+        "When a known amount must be charged, weigh it into the system"
+      ]
+    },
+    {
+      "slide_number": 5,
+      "title": "Liquid Refrigerant Charging Tips",
+      "bullets": [
+        "Liquid must be vaporized once it leaves the charging cylinder to prevent liquid entering the compressor",
+        "When charging blended refrigerants, refrigerant must leave the cylinder as a liquid",
+        "Gauge manifold valve should be used only on compressors where suction gas passes over motor windings"
+      ]
+    },
+    {
+      "slide_number": 6,
+      "title": "Liquid Refrigerant Charging Graphic",
+      "bullets": [
+        "Figure 10.5: System charged with no refrigerant in it; liquid refrigerant moves toward evaporator and condenser; no liquid enters compressor"
+      ]
+    },
+    {
+      "slide_number": 7,
+      "title": "Weighing Refrigerant",
+      "bullets": [
+        "Weighing correct charge accomplished with an electronic scale",
+        "Bathroom scales should not be used",
+        "Electronic scales often automatically display amount removed from cylinder",
+        "Some units dispense a predetermined amount then shut off",
+        "Some units offer audible alarms and wireless controls"
+      ]
+    },
+    {
+      "slide_number": 8,
+      "title": "Graduated Charging Cylinders",
+      "bullets": [
+        "Used to add refrigerant to smaller systems",
+        "Affected by ambient temperature",
+        "Pressure gauge gives saturation pressure and temperature of refrigerant",
+        "Must be calibrated before each use",
+        "Select one large enough for the system"
+      ]
+    },
+    {
+      "slide_number": 9,
+      "title": "Charging Charts",
+      "bullets": [
+        "Curves and charts supplied by manufacturers help properly charge systems",
+        "Charts and curves vary by manufacturer",
+        "Use superheat values for fixed-bore metering devices and subcooling for TXV systems"
+      ]
+    },
+    {
+      "slide_number": 10,
+      "title": "Subcooling Method of Charging For TXV Systems",
+      "bullets": [
+        "Figure 10.21: Subcooling charging method for a high-efficiency split R-410A system with a TXV metering device"
+      ]
+    },
+    {
+      "slide_number": 11,
+      "title": "Charging Near-Azeotropic (Zeotropic) Refrigerant Blends",
+      "bullets": [
+        "Blended refrigerants have different properties than component refrigerants",
+        "Azeotropic blends have one boiling point and one condensing point for each pressure",
+        "Near-azeotropic (zeotropic) blends exhibit temperature glide when they evaporate or condense"
+      ]
+    },
+    {
+      "slide_number": 12,
+      "title": "Dew Point and Bubble Point Values",
+      "bullets": [
+        "Dew point value: where saturated vapor begins to condense; used for superheat calculations",
+        "Bubble point value: where saturated liquid begins to boil; used for subcooling calculations"
+      ]
+    },
+    {
+      "slide_number": 13,
+      "title": "Fractionalization",
+      "bullets": [
+        "Occurs when some of the blend evaporates or condenses before the rest of the blend",
+        "If a zeotropic blend leaks, the component with the lowest boiling point will leak faster",
+        "Fractionation will not occur when the refrigerant is liquid",
+        "Refrigerant must leave the cylinder as a liquid to avoid fractionation"
+      ]
+    }
+  ]
+}

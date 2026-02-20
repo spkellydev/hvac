@@ -1,0 +1,130 @@
+{
+  "questions": [
+    {
+      "chapter": 36,
+      "id": 75,
+      "type": "multiple_choice",
+      "question": "There are three kinds of attic ventilation: power, natural, and ____.",
+      "options": ["solar", "vacuum", "water"],
+      "correct_answer": "solar"
+    },
+    {
+      "chapter": 36,
+      "id": 76,
+      "type": "multiple_choice",
+      "question": "A homeowner building a house in Las Vegas should locate most windows on the ____ sides to reduce solar load.",
+      "options": ["north and south", "south and west", "north and east", "east and west"],
+      "correct_answer": "north and south"
+    },
+    {
+      "chapter": 36,
+      "id": 77,
+      "type": "multiple_choice",
+      "question": "The package air-conditioning system is ____ than the split system because it is completely factory assembled and charged.",
+      "options": ["less efficient", "more efficient", "slightly less efficient", "slightly more efficient"],
+      "correct_answer": "more efficient"
+    },
+    {
+      "chapter": 36,
+      "id": 78,
+      "type": "multiple_choice",
+      "question": "When exposed to salt air, ____ should be used for screws securing sheet metal on air conditioning equipment.",
+      "options": ["tin", "copper", "iron", "stainless steel"],
+      "correct_answer": "stainless steel"
+    },
+    {
+      "chapter": 36,
+      "id": 79,
+      "type": "true_false",
+      "question": "The supply duct portion of an air handling system needs insulation when run through an unconditioned space.",
+      "correct_answer": "True"
+    },
+    {
+      "chapter": 36,
+      "id": 80,
+      "type": "multiple_choice",
+      "question": "Appearance is a major drawback with what type of air-conditioning equipment?",
+      "options": [
+        "Rooftop package units",
+        "Ductless split systems",
+        "Ground level package units",
+        "Multi-position package units"
+      ],
+      "correct_answer": "Ductless split systems"
+    },
+    {
+      "chapter": 36,
+      "id": 81,
+      "type": "multiple_choice",
+      "question": "On a package air-conditioning system, which refrigerant lines must be field-installed?",
+      "options": [
+        "Discharge and liquid",
+        "Liquid and suction",
+        "No lines need to be field-installed",
+        "Discharge and suction"
+      ],
+      "correct_answer": "No lines need to be field-installed"
+    },
+    {
+      "chapter": 36,
+      "id": 82,
+      "type": "true_false",
+      "question": "The return duct portion of an air handling system never needs to be insulated.",
+      "correct_answer": "False"
+    },
+    {
+      "chapter": 36,
+      "id": 83,
+      "type": "multiple_choice",
+      "question": "What is the major disadvantage of a top-air-discharge condenser?",
+      "options": [
+        "More difficult to install and maintain",
+        "Uses hard-to-source refrigerants",
+        "Fan and motor are more subject to damage from rain, snow, and falling leaves"
+      ],
+      "correct_answer": "Fan and motor are more subject to damage from rain, snow, and falling leaves"
+    },
+    {
+      "chapter": 36,
+      "id": 84,
+      "type": "multiple_choice",
+      "question": "When an 'A' coil is used horizontally, the coil is laid on its side and a special ____ pan is required.",
+      "options": ["condensate", "catch", "oil"],
+      "correct_answer": "condensate"
+    },
+    {
+      "chapter": 36,
+      "id": 85,
+      "type": "multiple_choice",
+      "question": "What are the three common evaporator designs used on air conditioning equipment?",
+      "options": ["H-coil", "B-coil", "slant coil", "A-coil"],
+      "correct_answer": ["H-coil", "slant coil", "A-coil"]
+    },
+    {
+      "chapter": 36,
+      "id": 86,
+      "type": "multiple_choice",
+      "question": "More than one evaporator coil circuit is used when ____.",
+      "options": [
+        "A slant coil is at an angle more than 60°",
+        "The evaporator is outside the conditioned area",
+        "There would be excessive refrigerant pressure drop in the coil circuit",
+        "A distributor would not be practical"
+      ],
+      "correct_answer": "There would be excessive refrigerant pressure drop in the coil circuit"
+    },
+    {
+      "chapter": 36,
+      "id": 87,
+      "type": "multiple_choice",
+      "question": "The solar load on a structure is the heat gain resulting from ____.",
+      "options": [
+        "Heat from the sun's radiation",
+        "Dry-bulb temperature inside the structure",
+        "Heat conducted through materials",
+        "Air infiltration"
+      ],
+      "correct_answer": "Heat from the sun's radiation"
+    }
+  ]
+}

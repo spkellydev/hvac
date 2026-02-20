@@ -1,0 +1,287 @@
+{
+  "source_file": "RACT_9e_Ch36.pptx",
+  "unit": "Unit 36 Refrigeration Applied to Air-Conditioning",
+  "section": "Section 7 Air-Conditioning Cooling",
+  "slides": [
+    {
+      "slide_number": 1,
+      "title": "Air-Conditioning",
+      "bullets": [
+        "Refrigeration process applied to comfort cooling",
+        "Classified as a high-temperature refrigeration system",
+        "Uses the same four components: compressor, condenser, metering device, evaporator",
+        "Absorbs heat indoors and puts it outside"
+      ]
+    },
+    {
+      "slide_number": 2,
+      "title": "Structural Heat Gain",
+      "bullets": [
+        "Heat leaks into a structure by conduction, infiltration, and radiation",
+        "Summer solar load is higher on the east and west sides",
+        "Attic ventilation can help relieve solar load on the ceiling",
+        "Accomplished with powered or natural-draft ventilation systems"
+      ]
+    },
+    {
+      "slide_number": 3,
+      "title": "Structural Heat Gain Conduction and Infiltration",
+      "bullets": [
+        "Heat enters through walls, closed windows, and closed doors by conduction",
+        "Infiltration through cracks around doors and windows",
+        "Infiltrating air has different humidity characteristics depending on location"
+      ]
+    },
+    {
+      "slide_number": 4,
+      "title": "Structural Heat Gain Attic Ventilation",
+      "bullets": [
+        "A ventilated attic helps keep solar heat from the ceiling of the house",
+        "Figure 36.2"
+      ]
+    },
+    {
+      "slide_number": 5,
+      "title": "Structural Heat Gain Different Locations",
+      "bullets": [
+        "Figure 36.4 shows inside/outside temperature differences for different climates"
+      ]
+    },
+    {
+      "slide_number": 6,
+      "title": "Evaporative Cooling",
+      "bullets": [
+        "Used primarily in climates with low humidity",
+        "Uses fiber mounted in a frame with water running over the fiber as cooling media",
+        "Fresh air is drawn through the fiber and cooled by evaporation",
+        "Must provide an outlet for the air to leave the structure",
+        "Three common configurations: drip-type, spray or singer-type, rotary-type"
+      ]
+    },
+    {
+      "slide_number": 7,
+      "title": "An Evaporative Cooler",
+      "bullets": [
+        "Figure 36.5 An evaporative cooler"
+      ]
+    },
+    {
+      "slide_number": 8,
+      "title": "Package-Type and Split-Type Air-Conditioning Systems",
+      "bullets": [
+        "Air-conditioning systems use the same four main components",
+        "Package units are self-contained with all components in one cabinet",
+        "Split systems have condenser outside connected to evaporator by refrigerant lines",
+        "Ductless split systems are very popular"
+      ]
+    },
+    {
+      "slide_number": 9,
+      "title": "The Evaporator",
+      "bullets": [
+        "Transfers heat from air to refrigerant",
+        "Absorbing sensible heat lowers air temperature",
+        "Absorbing latent heat removes moisture as condensate",
+        "Typical room conditions: 75°F dry-bulb, 50% RH, 62.5°F wet-bulb",
+        "Evaporator coil operates at about 40°F"
+      ]
+    },
+    {
+      "slide_number": 10,
+      "title": "The Evaporator Humidity and Airflow",
+      "bullets": [
+        "Air leaves the coil at about 55°F dry-bulb and about 95% humidity",
+        "High humidity results from cooling; relative humidity falls when mixed",
+        "In humid climates coil temperature may be lower to remove more humidity",
+        "Coil temperature is controlled by airflow across the coil"
+      ]
+    },
+    {
+      "slide_number": 11,
+      "title": "Evaporator Coil Configurations",
+      "bullets": [
+        "Coil made of aluminum or copper with aluminum fins",
+        "Common types: A coil, slant coil, H coil",
+        "Coils may operate in parallel and use multiple circuits with a distributor",
+        "Microchannel technology resembles automobile radiators"
+      ]
+    },
+    {
+      "slide_number": 12,
+      "title": "The Evaporator An A Coil",
+      "bullets": [
+        "Figure 36.12 An A coil"
+      ]
+    },
+    {
+      "slide_number": 13,
+      "title": "Design Conditions",
+      "bullets": [
+        "Be familiar with local design practices",
+        "Choose equipment using climate condition charts",
+        "Single-speed equipment performs most efficiently at full load",
+        "Designers may choose compromise conditions or variable capacity systems"
+      ]
+    },
+    {
+      "slide_number": 14,
+      "title": "The Compressor",
+      "bullets": [
+        "Types include reciprocating, rotary, scroll, centrifugal, and screw",
+        "Vapor pump that moves vapor from low-pressure to high-pressure side",
+        "Increases temperature and pressure of vapor"
+      ]
+    },
+    {
+      "slide_number": 15,
+      "title": "Compressor Speeds RPM",
+      "bullets": [
+        "Older compressors run at standard motor speeds of 3450 or 1750 rpm",
+        "Newer compressors operate at faster speeds with more efficient refrigerants",
+        "Most systems today use variable refrigerant flow to vary compressor speed"
+      ]
+    },
+    {
+      "slide_number": 16,
+      "title": "The Reciprocating Compressor",
+      "bullets": [
+        "Used in residential and light commercial air-conditioning",
+        "Mainly cooled by suction gas and air passing over the shell",
+        "Usually fully hermetic, suction-gas-cooled type",
+        "Positive-displacement compressors using R-22, R-410A, or R-407C"
+      ]
+    },
+    {
+      "slide_number": 17,
+      "title": "Cooling the Compressor and Motor",
+      "bullets": [
+        "Lack of cooling results in damage and breakdown of compressor oil",
+        "Hermetic compressors are suction-gas-cooled",
+        "Rotary compressors cooled with discharge gas",
+        "Technician should ensure discharge temperature is not over 225°F"
+      ]
+    },
+    {
+      "slide_number": 18,
+      "title": "The Rotary Compressor",
+      "bullets": [
+        "Small and light, sometimes cooled with discharge gas",
+        "More efficient than reciprocating compressors",
+        "Two basic designs: stationary vane and rotary vane",
+        "Discharges all refrigerant that enters it"
+      ]
+    },
+    {
+      "slide_number": 19,
+      "title": "The Scroll Compressor",
+      "bullets": [
+        "Uses two spirals, one stationary and one orbiting",
+        "Forms multiple pockets where refrigerant is trapped",
+        "Pockets get smaller as refrigerant passes through",
+        "Several compression stages occur simultaneously; highly efficient",
+        "High performance depends on good axial and radial sealing"
+      ]
+    },
+    {
+      "slide_number": 20,
+      "title": "The Condenser",
+      "bullets": [
+        "Rejects heat from the air-conditioning system",
+        "Most equipment is air-cooled and rejects heat to the air",
+        "Coils made of copper or aluminum with aluminum fins",
+        "New coil designs make units lighter and more efficient"
+      ]
+    },
+    {
+      "slide_number": 21,
+      "title": "Side-Air-Discharge Condensing Units",
+      "bullets": [
+        "Discharge air out the side of the unit",
+        "Fan and motor located under top panel",
+        "Noise generated inside cabinets discharged in airstream",
+        "Condenser discharge can be hot enough to kill plants"
+      ]
+    },
+    {
+      "slide_number": 22,
+      "title": "Top-Air-Discharge Condensing Units",
+      "bullets": [
+        "Most popular configuration in residential equipment",
+        "Hot air and noise discharge from the top",
+        "Motor on top should be protected with a rain shield",
+        "Bearings mounted vertically need thrust surface",
+        "Figure 36.30"
+      ]
+    },
+    {
+      "slide_number": 23,
+      "title": "Condenser Coil Design",
+      "bullets": [
+        "Vertical condenser coils may become clogged with grass and dirt",
+        "Coils must be clean to operate efficiently",
+        "Bottom rows may be used for subcooling to improve efficiency"
+      ]
+    },
+    {
+      "slide_number": 24,
+      "title": "High-Efficiency Condensers",
+      "bullets": [
+        "Industry and government demand higher efficiency",
+        "Best method is to lower head pressure",
+        "Physically larger coils provide greater surface area and lower head pressure"
+      ]
+    },
+    {
+      "slide_number": 25,
+      "title": "Condenser Cabinet Design",
+      "bullets": [
+        "Cabinets located outside need waterproofing",
+        "Aluminum is lightweight but susceptible to rust in salty environments",
+        "Use weather-resistant screws and fasten tightly to prevent rattling"
+      ]
+    },
+    {
+      "slide_number": 26,
+      "title": "Expansion Devices",
+      "bullets": [
+        "Control flow of refrigerant into the evaporator",
+        "Most common types are fixed-bore and TXV",
+        "Electronic expansion valves used on many ductless split systems",
+        "TXVs are more efficient and help evaporator reach peak performance faster",
+        "TXV systems may require high-starting-torque motors"
+      ]
+    },
+    {
+      "slide_number": 27,
+      "title": "Air-Side Components",
+      "bullets": [
+        "Consist of indoor blower and supply and return ducts",
+        "Airflow normally about 400 cfm/ton in average climates",
+        "350 cfm/ton in coastal areas and 450 cfm/ton in desert areas",
+        "Air leaves at 55°F and returns at about 75°F",
+        "Ductwork running through unconditioned space must be well-insulated",
+        "Supply registers located high in the room distribute cool air better"
+      ]
+    },
+    {
+      "slide_number": 28,
+      "title": "Installation Procedures Package Systems",
+      "bullets": [
+        "Package systems are self-contained (example: window unit)",
+        "Equipment located outside so service can be done outside",
+        "Factory assembled and charged with short refrigerant lines",
+        "Install on a firm foundation and connect ductwork and electrical service"
+      ]
+    },
+    {
+      "slide_number": 29,
+      "title": "Installation Procedures Split Systems",
+      "bullets": [
+        "Locate condensing unit and air handler as close together as possible",
+        "Install interconnecting piping (cool gas line and liquid line)",
+        "Cool gas line should be insulated",
+        "Take care handling equipment and watch for insects, sharp objects, weak ceilings, and refrigerant lines"
+      ]
+    }
+  ]
+}

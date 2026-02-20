@@ -1,0 +1,356 @@
+{
+  "source_file": "RACT_9e_Ch09.pptx",
+  "unit": "Unit 9 Refrigerant and Oil Chemistry and Management",
+  "section": "Section 2 Safety Tools and Equipment and Shop Practices",
+  "slides": [
+    {
+      "slide_number": 1,
+      "title": "Refrigerants and the Environment",
+      "bullets": [
+        "Chemicals are reaching the earth’s atmosphere",
+        "Some of these chemicals are refrigerants",
+        "Refrigerants are stable if contained",
+        "Refrigerants are pollutants when released to the atmosphere"
+      ]
+    },
+    {
+      "slide_number": 2,
+      "title": "Ozone Depletion",
+      "bullets": [
+        "Ozone is found in the stratosphere and the troposphere",
+        "Stratospheric ozone shields the earth from excessive UV rays",
+        "Tropospheric ozone is considered a pollutant (smog)"
+      ]
+    },
+    {
+      "slide_number": 3,
+      "title": "Atmospheric Regions",
+      "bullets": [
+        "Figure 9.1 Atmospheric regions"
+      ]
+    },
+    {
+      "slide_number": 4,
+      "title": "Effects of Ozone Depletion",
+      "bullets": [
+        "Increase in skin cancer and cataracts in humans and animals",
+        "Adverse effects on plants and marine life",
+        "An ozone molecule is made up of three oxygen atoms",
+        "Chlorine destroys ozone molecules",
+        "One chlorine atom can destroy up to 100,000 ozone molecules"
+      ]
+    },
+    {
+      "slide_number": 5,
+      "title": "Ozone Depletion Potential ODP",
+      "bullets": [
+        "Higher ODP means more damage to stratospheric ozone",
+        "UV rays break off chlorine from CFC molecules",
+        "Chlorine attaches to ozone forming chlorine monoxide and oxygen"
+      ]
+    },
+    {
+      "slide_number": 6,
+      "title": "An Ozone Molecule",
+      "bullets": [
+        "Figure 9.2 A ozone molecule O3 and B standard oxygen molecule O2"
+      ]
+    },
+    {
+      "slide_number": 7,
+      "title": "Breaking Up an Ozone Molecule",
+      "bullets": [
+        "Figure 9.3 The breaking up of an ozone molecule by ultraviolet radiation"
+      ]
+    },
+    {
+      "slide_number": 8,
+      "title": "Global Warming",
+      "bullets": [
+        "Refrigerant gases prevent earth’s infrared radiation from escaping",
+        "Also called the greenhouse effect",
+        "HFC-134a has zero ODP but contributes to global warming",
+        "Total Equivalent Warming Impact TEWI measures global warming effects"
+      ]
+    },
+    {
+      "slide_number": 9,
+      "title": "Refrigerants",
+      "bullets": [
+        "Most refrigerants originate from methane and ethane molecules",
+        "Removing hydrogen and adding halogens creates halogenated refrigerants",
+        "Examples: CFCs, HCFCs, HFCs, HCs, HFOs"
+      ]
+    },
+    {
+      "slide_number": 10,
+      "title": "Molecules in Refrigerants",
+      "bullets": [
+        "Figure 9.6 Most refrigerants originate from methane and ethane",
+        "Both molecules are hydrocarbons"
+      ]
+    },
+    {
+      "slide_number": 11,
+      "title": "CFC Refrigerants",
+      "bullets": [
+        "Contain chlorine, fluorine, and carbon",
+        "Most damaging to stratospheric ozone because molecules persist",
+        "On July 1, 1992 it became illegal to intentionally vent CFCs",
+        "CFCs were phased out of production at the end of 1995"
+      ]
+    },
+    {
+      "slide_number": 12,
+      "title": "HCFC Refrigerants",
+      "bullets": [
+        "Contain hydrogen, chlorine, fluorine, and carbon",
+        "HCFC group scheduled for total phase-out by 2030",
+        "R-22 no longer used in new equipment after 2010; total phase-out in 2020",
+        "On July 1, 1992 it became illegal to intentionally vent HCFCs"
+      ]
+    },
+    {
+      "slide_number": 13,
+      "title": "HFC Refrigerants",
+      "bullets": [
+        "Contain hydrogen, fluorine, and carbon",
+        "Do not contain chlorine and will not deplete stratospheric ozone",
+        "Can contribute to global warming",
+        "On November 15, 1995 it became illegal to intentionally vent HFCs",
+        "R-12 systems can be retrofitted to operate with R-134a"
+      ]
+    },
+    {
+      "slide_number": 14,
+      "title": "HFO Refrigerants",
+      "bullets": [
+        "Contain hydrogen, fluorine, and carbon",
+        "Fourth generation refrigerants; environmentally friendly",
+        "Cost effective and energy efficient",
+        "Examples: HFO-1234yf and HFO-1234ze",
+        "Low global warming potentials GWP"
+      ]
+    },
+    {
+      "slide_number": 15,
+      "title": "HC Refrigerants",
+      "bullets": [
+        "Contain only hydrogen and carbon; no fluorine or chlorine",
+        "Zero ODP rating but still contribute to global warming",
+        "Highly flammable; limited use and limited charge amounts in USA",
+        "Common HCs: methane, ethane, propane, butane"
+      ]
+    },
+    {
+      "slide_number": 16,
+      "title": "Flammable Refrigerant Applications Allowed",
+      "bullets": [
+        "EPA SNAP approved examples: R-600a isobutane, R-290 propane, R-170 ethane",
+        "Also HFC-32 difluoromethane and R-441A HC blend"
+      ]
+    },
+    {
+      "slide_number": 17,
+      "title": "Nameplates and Labels",
+      "bullets": [
+        "Nameplate or serial label indicates what HC refrigerant can be used",
+        "Warning labels on evaporator sections, compressor compartment, exterior, exposed tubing"
+      ]
+    },
+    {
+      "slide_number": 18,
+      "title": "Service Access and Tube Painting",
+      "bullets": [
+        "Refrigerant piping for service must be colored red PMS #185",
+        "Red piping must extend at least 1 in from compressor and 1 in on each side of process tubes or service ports"
+      ]
+    },
+    {
+      "slide_number": 19,
+      "title": "Compressor Terminal Venting",
+      "bullets": [
+        "Occurs when terminal pins blow out of ceramic fusite terminal",
+        "Allows pressurized refrigerant and oil spray to escape",
+        "Spray can ignite from electrical sparking causing flash fires and severe injury",
+        "Terminal pins can be damaged by misuse or physical jolt"
+      ]
+    },
+    {
+      "slide_number": 20,
+      "title": "Boiling Points and Safety Classifications",
+      "bullets": [
+        "Hydrocarbon refrigerants have low boiling points",
+        "Liquid refrigerant exposure can cause severe frostbite",
+        "Eye exposure can cause blindness",
+        "Follow safety precautions for handling, transporting, and storing refrigerants and cylinders"
+      ]
+    },
+    {
+      "slide_number": 21,
+      "title": "Refrigerant Numbering",
+      "bullets": [
+        "Refer to refrigerants by number derived from chemical composition",
+        "Numbering system developed by DuPont"
+      ]
+    },
+    {
+      "slide_number": 22,
+      "title": "Refrigerant Blends",
+      "bullets": [
+        "Blends can contain up to five refrigerants",
+        "Azeotropic mixtures are blends of two or more liquids",
+        "Near-azeotropic mixtures can separate and fractionate when leaking",
+        "Zeotropic blends have greater glide and fractionation than near-azeotropic blends"
+      ]
+    },
+    {
+      "slide_number": 23,
+      "title": "R Numbers for the Blends",
+      "bullets": [
+        "400-series blends are near-azeotropic",
+        "500-series blends are azeotropic",
+        "Blends may be named by percentage composition and may include capital letters"
+      ]
+    },
+    {
+      "slide_number": 24,
+      "title": "Popular Refrigerants and Compatible Oils",
+      "bullets": [
+        "HFC-134a R-134a is the alternative to CFC-12",
+        "HFCs make R-134a insoluble with mineral oils; require synthetic POE or PAG lubricants"
+      ]
+    },
+    {
+      "slide_number": 25,
+      "title": "Refrigerant Oils and Their Applications",
+      "bullets": [
+        "Many new oils exist; follow compressor manufacturer recommendations"
+      ]
+    },
+    {
+      "slide_number": 26,
+      "title": "Oil Groups",
+      "bullets": [
+        "Naphthenic oils commonly used in refrigeration",
+        "Popular synthetics: alkylbenzenes for HCFCs, glycols PAGs for automotive, esters POE for HFCs"
+      ]
+    },
+    {
+      "slide_number": 27,
+      "title": "Regulations",
+      "bullets": [
+        "Montreal Protocol limits use and production of CFCs and set phase-out dates",
+        "United States Clean Air Act of 1990 regulates use and disposal of CFCs and HCFCs",
+        "EPA enforces regulations"
+      ]
+    },
+    {
+      "slide_number": 28,
+      "title": "Recover Recycle or Reclaim",
+      "bullets": [
+        "Recovery removes refrigerant in any condition and stores it externally",
+        "Recycling cleans refrigerant by oil separation and passes through devices",
+        "Reclaiming processes refrigerant to new specifications"
+      ]
+    },
+    {
+      "slide_number": 29,
+      "title": "Methods of Recovery",
+      "bullets": [
+        "Passive or system-dependent recovery uses internal system pressure or compressor",
+        "Active recovery uses a self-contained recovery unit"
+      ]
+    },
+    {
+      "slide_number": 30,
+      "title": "Technician Certification",
+      "bullets": [
+        "Technician certification required since November 1995",
+        "Type I Small Appliance, Type II Medium/High/Very High Pressure, Type III Low Pressure",
+        "Universal Certification covers Types I II and III"
+      ]
+    },
+    {
+      "slide_number": 31,
+      "title": "Mechanical Recovery Systems Methods",
+      "bullets": [
+        "Fastest method: remove refrigerant in liquid state",
+        "Slowest method: remove in vapor phase",
+        "Recovery cylinders approved by DOT and should not be filled more than 80% liquid capacity"
+      ]
+    },
+    {
+      "slide_number": 32,
+      "title": "Mechanical Recovery Systems Tips",
+      "bullets": [
+        "Test refrigerants for acids before recharging",
+        "Avoid cross-contamination",
+        "Evacuate recovery cylinders to at least 1,000 microns before recovery",
+        "Weigh cylinder before and after recovery",
+        "Follow manufacturer instructions for recovery equipment"
+      ]
+    },
+    {
+      "slide_number": 33,
+      "title": "Recovering Refrigerant From Small Appliances",
+      "bullets": [
+        "Small appliances defined as hermetically sealed systems with 5 lbs or less of refrigerant",
+        "Recovery via low-loss fittings, Schrader valves, piercing valves",
+        "Refrigerant bags available for small appliance recovery as required by EPA"
+      ]
+    },
+    {
+      "slide_number": 34,
+      "title": "Reclaiming Refrigerant",
+      "bullets": [
+        "Return refrigerant to a reclamation center",
+        "Reclaim companies accept cylinders 100 lb and larger",
+        "Only DOT-approved cylinders with proper labels can be used",
+        "Refrigerant in reclaim cylinders must be of one type; mixed refrigerants cannot be separated"
+      ]
+    },
+    {
+      "slide_number": 35,
+      "title": "Refrigerant Retrofitting",
+      "bullets": [
+        "R-22 retrofitting considerations",
+        "New systems manufactured with R-410A",
+        "Best retrofit depends on temperatures, application, and equipment size"
+      ]
+    },
+    {
+      "slide_number": 36,
+      "title": "General Retrofitting Considerations",
+      "bullets": [
+        "Consider compatibility of plastics and elastomers",
+        "Lubricant selection and system performance issues",
+        "Most replacements are not pound-for-pound",
+        "Warranties may be impacted by retrofitting"
+      ]
+    },
+    {
+      "slide_number": 37,
+      "title": "General Retrofitting Procedure Part 1",
+      "bullets": [
+        "Identify and resolve existing adverse conditions",
+        "Obtain baseline data",
+        "Remove existing compressor oil if required",
+        "Recover existing refrigerant",
+        "Replace filter driers",
+        "Pressurize system with inert gas"
+      ]
+    },
+    {
+      "slide_number": 38,
+      "title": "General Retrofitting Procedure Part 2",
+      "bullets": [
+        "Evacuate the system then wait",
+        "Charge the system per manufacturer guidelines",
+        "Adjust thermostatic expansion valve and refrigerant flow controls",
+        "Record operating parameters",
+        "Label the system for future service personnel"
+      ]
+    }
+  ]
+}

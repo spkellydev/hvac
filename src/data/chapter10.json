@@ -1,0 +1,219 @@
+{
+  "questions": [
+    {
+      "chapter": 10,
+      "id": 50,
+      "type": "true_false",
+      "question": "An electronic charging scale counts upward as refrigerant is removed to show how much was used.",
+      "correct_answer": "True"
+    },
+    {
+      "chapter": 10,
+      "id": 51,
+      "type": "multiple_choice",
+      "question": "If a critically charged system is overcharged, what is a likely result?",
+      "options": [
+        "Increased operating pressures",
+        "Increased cooling capacity",
+        "Reduced compressor discharge temperature",
+        "Increased system efficiency"
+      ],
+      "correct_answer": "Increased operating pressures"
+    },
+    {
+      "chapter": 10,
+      "id": 52,
+      "type": "multiple_choice",
+      "question": "When charging a system with a near-azeotropic mixture, what must be done to prevent liquid from entering the system?",
+      "options": [
+        "Charge vapor through the high side",
+        "Charge vapor through the low side using a resistor",
+        "Charge liquid through the high side",
+        "Charge liquid through the low side using a restrictor"
+      ],
+      "correct_answer": "Charge liquid through the low side using a restrictor"
+    },
+    {
+      "chapter": 10,
+      "id": 53,
+      "type": "multiple_choice",
+      "question": "Refrigerant in liquid form is normally put into the system through the ____.",
+      "options": ["hot gas line", "suction line", "liquid return line", "liquid line"],
+      "correct_answer": "liquid line"
+    },
+    {
+      "chapter": 10,
+      "id": 54,
+      "type": "multiple_choice",
+      "question": "What is the correct refrigerant charge for a system with the given factory charge and line lengths?",
+      "options": ["6 lb 10 oz", "6 lb 15 oz", "7 lb 7 oz", "7 lb 11 oz"],
+      "correct_answer": "7 lb 11 oz"
+    },
+    {
+      "chapter": 10,
+      "id": 55,
+      "type": "true_false",
+      "question": "When adding refrigerant in vapor form to an operating system, it must be added to the low-pressure side.",
+      "correct_answer": "True"
+    },
+    {
+      "chapter": 10,
+      "id": 56,
+      "type": "multiple_choice",
+      "question": "Fractionation occurs when ____.",
+      "options": [
+        "Only a fraction of the charge has been added",
+        "Operating pressures increase",
+        "Some of a blended refrigerant evaporates or condenses before the rest"
+      ],
+      "correct_answer": "Some of a blended refrigerant evaporates or condenses before the rest"
+    },
+    {
+      "chapter": 10,
+      "id": 57,
+      "type": "multiple_choice",
+      "question": "When a warm refrigerant cylinder is connected to an operating system, the cylinder pressure will be ____ than the suction pressure.",
+      "options": ["faster", "lower", "slower", "higher"],
+      "correct_answer": "higher"
+    },
+    {
+      "chapter": 10,
+      "id": 58,
+      "type": "multiple_choice",
+      "question": "Refrigerant in vapor form is normally put into the system through the ____.",
+      "options": ["hot gas line", "liquid return line", "suction line", "liquid line"],
+      "correct_answer": "suction line"
+    },
+    {
+      "chapter": 10,
+      "id": 59,
+      "type": "multiple_choice",
+      "question": "If 22 oz of refrigerant are added and the cylinder originally weighs 24 lb 12 oz, what will it weigh afterward?",
+      "options": ["23 lb 6 oz", "23 lb 12 oz", "22 lb 6 oz", "22 lb 12 oz"],
+      "correct_answer": "23 lb 6 oz"
+    },
+    {
+      "chapter": 10,
+      "id": 60,
+      "type": "true_false",
+      "question": "The quickest method to charge a system is to charge only vapor.",
+      "correct_answer": "False"
+    },
+    {
+      "chapter": 10,
+      "id": 61,
+      "type": "multiple_choice",
+      "question": "How can a technician increase cylinder pressure when it becomes too low to charge?",
+      "options": [
+        "Use an air pressure tank",
+        "Use a heat blanket",
+        "Place tank in warm water (90°F or less)",
+        "Use ice"
+      ],
+      "correct_answer": ["Use a heat blanket", "Place tank in warm water (90°F or less)"]
+    },
+    {
+      "chapter": 10,
+      "id": 62,
+      "type": "true_false",
+      "question": "If the tank is reusable, system refrigerant can enter the tank if system pressure is higher.",
+      "correct_answer": "True"
+    },
+    {
+      "chapter": 10,
+      "id": 63,
+      "type": "multiple_choice",
+      "question": "A graduated cylinder charging device ____.",
+      "options": [
+        "measures refrigerant by volume",
+        "has a heater to prevent temperature drop",
+        "has a compensation dial",
+        "all listed"
+      ],
+      "correct_answer": "all listed"
+    },
+    {
+      "chapter": 10,
+      "id": 64,
+      "type": "multiple_choice",
+      "question": "As refrigerant vapor is removed from a supply cylinder, the pressure will ____.",
+      "options": ["remain the same", "rise", "fall"],
+      "correct_answer": "fall"
+    },
+    {
+      "chapter": 10,
+      "id": 65,
+      "type": "true_false",
+      "question": "Using a restrictor, liquid refrigerant can be charged into the low side with the system operating.",
+      "correct_answer": "True"
+    },
+    {
+      "chapter": 10,
+      "id": 66,
+      "type": "true_false",
+      "question": "When system pressures are lower than tank pressure, refrigerant can be added to both high and low sides.",
+      "correct_answer": "True"
+    },
+    {
+      "chapter": 10,
+      "id": 67,
+      "type": "true_false",
+      "question": "A manufacturer's charging chart may be used to determine correct charge.",
+      "correct_answer": "True"
+    },
+    {
+      "chapter": 10,
+      "id": 68,
+      "type": "true_false",
+      "question": "Glide is the range of temperatures/pressures in which a blended refrigerant will condense.",
+      "correct_answer": "True"
+    },
+    {
+      "chapter": 10,
+      "id": 69,
+      "type": "true_false",
+      "question": "When adding liquid refrigerant into the high side, the compressor must be running.",
+      "correct_answer": "False"
+    },
+    {
+      "chapter": 10,
+      "id": 70,
+      "type": "multiple_choice",
+      "question": "Charging a refrigeration system refers to ____.",
+      "options": ["vaporizing refrigerant", "adding refrigerant", "removing refrigerant", "cleaning refrigerant"],
+      "correct_answer": "adding refrigerant"
+    },
+    {
+      "chapter": 10,
+      "id": 71,
+      "type": "multiple_choice",
+      "question": "Refrigerant vapor is added to an operating system through the ____ side.",
+      "options": ["high-pressure", "neutral-pressure", "low-pressure"],
+      "correct_answer": "low-pressure"
+    },
+    {
+      "chapter": 10,
+      "id": 72,
+      "type": "multiple_choice",
+      "question": "When charging liquid refrigerant from a single-valve cylinder, the cylinder is placed ____.",
+      "options": ["upside down", "right side up", "on its side", "any position"],
+      "correct_answer": "upside down"
+    },
+    {
+      "chapter": 10,
+      "id": 73,
+      "type": "multiple_choice",
+      "question": "If 30 oz of refrigerant are added and the cylinder originally weighs 26 lb 4 oz, what will it weigh afterward?",
+      "options": ["22 lb 8 oz", "24 lb 6 oz", "22 lb 4 oz", "24 lb 8 oz"],
+      "correct_answer": "24 lb 6 oz"
+    },
+    {
+      "chapter": 10,
+      "id": 74,
+      "type": "multiple_choice",
+      "question": "The ____ is used to take high-side pressure readings and trap refrigerant in the receiver.",
+      "options": ["king valve", "check valve", "ball valve"],
+      "correct_answer": "king valve"
+    }
+  ]
+}

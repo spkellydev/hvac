@@ -1,0 +1,808 @@
+{
+  "source": "final_review.docx (visible extracted content)",
+  "questions": [
+    {
+      "chapter": 9,
+      "id": 1,
+      "type": "multiple_choice",
+      "question": "The abbreviation for refrigerants containing chlorine, fluorine, and carbon is ____.",
+      "options": ["HCFC", "HFC", "HFAC", "CFC"],
+      "correct_answer": "CFC"
+    },
+    {
+      "chapter": 9,
+      "id": 2,
+      "type": "true_false",
+      "question": "A refrigerant reclaimed from a system may be charged back into the system from which it came.",
+      "correct_answer": "False"
+    },
+    {
+      "chapter": 9,
+      "id": 3,
+      "type": "multiple_choice",
+      "question": "The DOT-approved cylinder in which refrigerant may be recovered has a mechanism for shutting the recovery system off when it reaches approximately ____% full.",
+      "options": ["80", "75", "90"],
+      "correct_answer": "80"
+    },
+    {
+      "chapter": 9,
+      "id": 4,
+      "type": "multiple_choice",
+      "question": "What is tropospheric ozone and why are we not concerned with protecting it?",
+      "options": [
+        "It is not a pollutant. It dissipates on its own.",
+        "It is a pollutant and may irritate mucous membranes when inhaled (known as smog).",
+        "It is a pollutant."
+      ],
+      "correct_answer": "It is a pollutant and may irritate mucous membranes when inhaled (known as smog)."
+    },
+    {
+      "chapter": 9,
+      "id": 5,
+      "type": "multiple_choice",
+      "question": "Production of CFC refrigerants became illegal on January 1, ____.",
+      "options": ["1991", "1996", "2005"],
+      "correct_answer": "1996"
+    },
+    {
+      "chapter": 9,
+      "id": 6,
+      "type": "multiple_choice",
+      "question": "When did it become illegal to intentionally vent HFC refrigerants to the atmosphere?",
+      "options": ["April 1, 1999", "December 1, 1979", "August 21, 1993", "November 15, 1995"],
+      "correct_answer": "November 15, 1995"
+    },
+    {
+      "chapter": 9,
+      "id": 7,
+      "type": "multiple_choice",
+      "question": "How are near-azeotropic blends identified?",
+      "options": [
+        "300 series",
+        "100 series",
+        "200 series",
+        "400 series"
+      ],
+      "correct_answer": "400 series"
+    },
+    {
+      "chapter": 9,
+      "id": 8,
+      "type": "multiple_choice",
+      "question": "How many chlorine atoms does it take to destroy 100,000 ozone molecules in the stratosphere?",
+      "options": ["1,000", "100", "10", "1"],
+      "correct_answer": "1"
+    },
+    {
+      "chapter": 9,
+      "id": 9,
+      "type": "true_false",
+      "question": "The DOT-approved cylinder used for recovering refrigerant is gray and yellow.",
+      "correct_answer": "True"
+    },
+    {
+      "chapter": 9,
+      "id": 10,
+      "type": "multiple_choice",
+      "question": "Which of the following refrigerants is a CFC-type refrigerant?",
+      "options": ["R-12", "R-123", "R-22", "R-134a"],
+      "correct_answer": "R-12"
+    },
+    {
+      "chapter": 9,
+      "id": 11,
+      "type": "multiple_choice",
+      "question": "The abbreviation for refrigerants containing fluorine, carbon, and hydrogen is ____.",
+      "options": ["CFC", "HFAC", "HFC", "HCFC"],
+      "correct_answer": "HFC"
+    },
+    {
+      "chapter": 9,
+      "id": 12,
+      "type": "multiple_choice",
+      "question": "The abbreviation for refrigerants containing chlorine, fluorine, carbon, and hydrogen is ____.",
+      "options": ["HFAC", "HCFC", "CFC", "HFC"],
+      "correct_answer": "HCFC"
+    },
+    {
+      "chapter": 9,
+      "id": 13,
+      "type": "multiple_choice",
+      "question": "On what does Type III EPA certification allow a service technician to work?",
+      "options": [
+        "Low-pressure appliance using refrigerants below 0 psig at 100°F",
+        "Low-pressure appliance using refrigerants below 30 psig at 104°F",
+        "High-pressure appliance above 30 psig at 115°F",
+        "High-pressure appliance below 60 psig at 100°F"
+      ],
+      "correct_answer": "Low-pressure appliance using refrigerants below 30 psig at 104°F"
+    },
+    {
+      "chapter": 9,
+      "id": 14,
+      "type": "multiple_choice",
+      "question": "Refrigerants that are made up of two or more liquids are called ____.",
+      "options": ["isotopes", "chlorofluorocarbons", "fluorocarbons", "azeotropes"],
+      "correct_answer": "azeotropes"
+    },
+    {
+      "chapter": 9,
+      "id": 15,
+      "type": "multiple_choice",
+      "question": "The fine for venting refrigerant into the atmosphere can be as high as $____ per day.",
+      "options": ["275", "2700", "44539"],
+      "correct_answer": "44539"
+    },
+    {
+      "chapter": 9,
+      "id": 16,
+      "type": "true_false",
+      "question": "When a technician works for a company in which the technician does not have a financial interest, the technician does not have to be certified.",
+      "correct_answer": "False"
+    },
+    {
+      "chapter": 9,
+      "id": 17,
+      "type": "multiple_choice",
+      "question": "On what does Type I EPA certification allow a service technician to work?",
+      "options": [
+        "Equipment containing five pounds or less of refrigerant",
+        "Equipment containing ten pounds or less",
+        "Equipment containing fifteen pounds or less",
+        "Equipment containing twenty pounds or less"
+      ],
+      "correct_answer": "Equipment containing five pounds or less of refrigerant"
+    },
+    {
+      "chapter": 9,
+      "id": 18,
+      "type": "multiple_choice",
+      "question": "Why is stratospheric ozone so important to our environment?",
+      "options": [
+        "Shields Earth from nuclear radiation",
+        "Shields Earth from x-ray radiation",
+        "Shields Earth from UV-B radiation",
+        "Shields Earth from gamma radiation"
+      ],
+      "correct_answer": "Shields Earth from UV-B radiation"
+    },
+    {
+      "chapter": 9,
+      "id": 19,
+      "type": "multiple_choice",
+      "question": "To remove the refrigerant from a system without any testing or processing and to be put back into the same system is called ____.",
+      "options": ["recycle", "reclaim", "recovery", "renew"],
+      "correct_answer": "recovery"
+    },
+    {
+      "chapter": 9,
+      "id": 20,
+      "type": "multiple_choice",
+      "question": "To clean refrigerant by the use of filter dryers is called ____.",
+      "options": ["recovery", "recycle", "reclaim", "renew"],
+      "correct_answer": "recycle"
+    },
+    {
+      "chapter": 9,
+      "id": 21,
+      "type": "true_false",
+      "question": "Refrigerants that have a low ODP will have a high TEWI.",
+      "correct_answer": "False"
+    },
+    {
+      "chapter": 9,
+      "id": 22,
+      "type": "multiple_choice",
+      "question": "Which type of refrigerant has the highest Ozone Depletion Potential (ODP)?",
+      "options": ["CFC", "All have same ODP", "HCFC", "HFC"],
+      "correct_answer": "CFC"
+    },
+    {
+      "chapter": 9,
+      "id": 23,
+      "type": "true_false",
+      "question": "Mechanical refrigerant recovery equipment must meet specifications established by the 1993 AHRI 740 standard.",
+      "correct_answer": "True"
+    },
+    {
+      "chapter": 9,
+      "id": 24,
+      "type": "multiple_choice",
+      "question": "Ozone is produced mainly by a process called ____.",
+      "options": ["ionization", "photosynthesis", "catabolism"],
+      "correct_answer": "photosynthesis"
+    },
+    {
+      "chapter": 9,
+      "id": 25,
+      "type": "multiple_choice",
+      "question": "The _____ takes into consideration both the direct and indirect global warming effects of refrigerants.",
+      "options": ["TEWI", "GWI", "GWP", "ODP"],
+      "correct_answer": "TEWI"
+    },
+
+    {
+      "chapter": 8,
+      "id": 26,
+      "type": "multiple_choice",
+      "question": "Sludge is produced when moisture, acid, and ____ are present in the system.",
+      "options": ["fungus", "air", "oil"],
+      "correct_answer": "oil"
+    },
+
+    {
+      "chapter": 8,
+      "id": 27,
+      "type": "true_false",
+      "question": "Liquid water under the oil in a motor-compressor can be removed under deep vacuum by running the compressor briefly.",
+      "correct_answer": "False"
+    },
+
+    {
+      "chapter": 8,
+      "id": 28,
+      "type": "multiple_choice",
+      "question": "A pressure of 100 microns is reached, pump is turned off, gauge rises to 500 microns and stays. What does this indicate?",
+      "options": ["Nothing", "System is stable", "System is leak tight", "System is moisture free"],
+      "correct_answer": "System is leak tight"
+    },
+
+    {
+      "chapter": 8,
+      "id": 29,
+      "type": "multiple_choice",
+      "question": "Why must all valves be opened during evacuation?",
+      "options": [
+        "No issue if closed",
+        "Closed valves trap noncondensables",
+        "Closed valves create leaks"
+      ],
+      "correct_answer": "Closed valves trap noncondensables"
+    },
+
+    {
+      "chapter": 8,
+      "id": 30,
+      "type": "multiple_choice",
+      "question": "A micron gauge is used to measure ____.",
+      "options": [
+        "Atmospheric pressures at sea level",
+        "Absolute pressures below 1 mm Hg",
+        "High pressure in a refrigeration system",
+        "Atmospheric pressures at high altitudes"
+      ],
+      "correct_answer": "Absolute pressures below 1 mm Hg"
+    },
+
+    {
+      "chapter": 8,
+      "id": 31,
+      "type": "multiple_choice",
+      "question": "A pressure of 100 microns is reached, pump off, gauge rises above 5,000 microns and keeps rising. What does this indicate?",
+      "options": ["Nothing", "System has moisture", "System has no moisture", "System has a leak"],
+      "correct_answer": "System has a leak"
+    },
+
+    {
+      "chapter": 8,
+      "id": 32,
+      "type": "true_false",
+      "question": "Air entering a refrigerant system can eventually lead to compressor failure.",
+      "correct_answer": "True"
+    },
+
+    {
+      "chapter": 8,
+      "id": 33,
+      "type": "multiple_choice",
+      "question": "Only two substances should be in the refrigeration system for proper operation. They are ____ and oil.",
+      "options": ["air", "water", "refrigerant"],
+      "correct_answer": "refrigerant"
+    },
+
+    {
+      "chapter": 8,
+      "id": 34,
+      "type": "true_false",
+      "question": "The maximum recommended pressure for leak testing is 150 psig on the low-pressure side.",
+      "correct_answer": "True"
+    },
+
+    {
+      "chapter": 8,
+      "id": 35,
+      "type": "multiple_choice",
+      "question": "When moisture is present in a refrigeration system, it reacts with refrigerant and oil to form ____.",
+      "options": ["carbon dioxide", "acid", "carbon monoxide", "carbolic acid"],
+      "correct_answer": "acid"
+    },
+
+    {
+      "chapter": 8,
+      "id": 36,
+      "type": "multiple_choice",
+      "question": "When using a standing pressure test, ____ should never be used.",
+      "options": ["air", "fire", "water"],
+      "correct_answer": "air"
+    },
+
+    {
+      "chapter": 8,
+      "id": 37,
+      "type": "multiple_choice",
+      "question": "A multiple evacuation means ____.",
+      "options": [
+        "Vacuum on multiple systems",
+        "Vacuum more than once with nitrogen or refrigerant between",
+        "Three pumps simultaneously",
+        "Vacuum on three systems"
+      ],
+      "correct_answer": "Vacuum more than once with nitrogen or refrigerant between"
+    },
+
+    {
+      "chapter": 8,
+      "id": 38,
+      "type": "multiple_choice",
+      "question": "Why is nitrogen considered a noncondensable gas?",
+      "options": [
+        "It will not condense in the condenser",
+        "It is already condensed",
+        "It is a noble gas"
+      ],
+      "correct_answer": "It will not condense in the condenser"
+    },
+
+    {
+      "chapter": 8,
+      "id": 39,
+      "type": "multiple_choice",
+      "question": "A compound gauge ____.",
+      "options": [
+        "Indicates pressures below atmospheric",
+        "Is one of two gauges on a manifold",
+        "Indicates pressures above 14.696 psia",
+        "All listed"
+      ],
+      "correct_answer": "All listed"
+    },
+
+    {
+      "chapter": 8,
+      "id": 40,
+      "type": "true_false",
+      "question": "The oil in a vacuum pump should be changed after each use.",
+      "correct_answer": "True"
+    },
+
+    {
+      "chapter": 8,
+      "id": 41,
+      "type": "multiple_choice",
+      "question": "Is it a good idea to remove Schrader stems before evacuation?",
+      "options": [
+        "No, they protect the system",
+        "Yes, they restrict flow and increase evacuation time"
+      ],
+      "correct_answer": "Yes, they restrict flow and increase evacuation time"
+    },
+
+    {
+      "chapter": 8,
+      "id": 42,
+      "type": "true_false",
+      "question": "Ordinary clean refrigerant oil can be used satisfactorily in a vacuum pump.",
+      "correct_answer": "False"
+    },
+
+    {
+      "chapter": 8,
+      "id": 43,
+      "type": "multiple_choice",
+      "question": "A rising pressure could also mean refrigerant vapor is still seeping from the system.",
+      "options": ["dropping", "flat", "rising"],
+      "correct_answer": "rising"
+    },
+
+    {
+      "chapter": 8,
+      "id": 44,
+      "type": "multiple_choice",
+      "question": "The electronic vacuum gauge measures pressure ____ the system.",
+      "options": ["inside", "below", "above", "outside"],
+      "correct_answer": "inside"
+    },
+
+    {
+      "chapter": 8,
+      "id": 45,
+      "type": "multiple_choice",
+      "question": "A pressure of 100 microns is reached, pump off, gauge rises to 5,000 microns and stays. What does this indicate?",
+      "options": ["Leak proof", "Nothing", "Moisture free", "System still has moisture"],
+      "correct_answer": "System still has moisture"
+    },
+
+    {
+      "chapter": 8,
+      "id": 46,
+      "type": "multiple_choice",
+      "question": "Moisture in liquid state must be ____ before removal with a vacuum pump.",
+      "options": ["cooled", "solidified", "condensed", "vaporized"],
+      "correct_answer": "vaporized"
+    },
+
+    {
+      "chapter": 8,
+      "id": 47,
+      "type": "true_false",
+      "question": "After a compressor burnout, it is good practice to reuse the recovered refrigerant.",
+      "correct_answer": "False"
+    },
+
+    {
+      "chapter": 8,
+      "id": 48,
+      "type": "multiple_choice",
+      "question": "Triple evacuations are not normally performed on large systems because ____.",
+      "options": [
+        "They are dangerous",
+        "They take too much time",
+        "Large systems only need one evacuation",
+        "Noncondensables get stuck"
+      ],
+      "correct_answer": "They take too much time"
+    },
+
+    {
+      "chapter": 8,
+      "id": 49,
+      "type": "multiple_choice",
+      "question": "A deep vacuum involves reducing pressure to ____ microns or below.",
+      "options": ["500", "50000", "5000"],
+      "correct_answer": "500"
+    }
+    ,
+    {
+      "chapter": 10,
+      "id": 50,
+      "type": "true_false",
+      "question": "An electronic charging scale counts upward as refrigerant is removed to show how much was used.",
+      "correct_answer": "True"
+    },
+    {
+      "chapter": 10,
+      "id": 51,
+      "type": "multiple_choice",
+      "question": "If a critically charged system is overcharged, what is a likely result?",
+      "options": [
+        "Increased operating pressures",
+        "Increased cooling capacity",
+        "Reduced compressor discharge temperature",
+        "Increased system efficiency"
+      ],
+      "correct_answer": "Increased operating pressures"
+    },
+    {
+      "chapter": 10,
+      "id": 52,
+      "type": "multiple_choice",
+      "question": "When charging a system with a near-azeotropic mixture, what must be done to prevent liquid from entering the system?",
+      "options": [
+        "Charge vapor through the high side",
+        "Charge vapor through the low side using a resistor",
+        "Charge liquid through the high side",
+        "Charge liquid through the low side using a restrictor"
+      ],
+      "correct_answer": "Charge liquid through the low side using a restrictor"
+    },
+    {
+      "chapter": 10,
+      "id": 53,
+      "type": "multiple_choice",
+      "question": "Refrigerant in liquid form is normally put into the system through the ____.",
+      "options": ["hot gas line", "suction line", "liquid return line", "liquid line"],
+      "correct_answer": "liquid line"
+    },
+    {
+      "chapter": 10,
+      "id": 54,
+      "type": "multiple_choice",
+      "question": "What is the correct refrigerant charge for a system with the given factory charge and line lengths?",
+      "options": ["6 lb 10 oz", "6 lb 15 oz", "7 lb 7 oz", "7 lb 11 oz"],
+      "correct_answer": "7 lb 11 oz"
+    },
+    {
+      "chapter": 10,
+      "id": 55,
+      "type": "true_false",
+      "question": "When adding refrigerant in vapor form to an operating system, it must be added to the low-pressure side.",
+      "correct_answer": "True"
+    },
+    {
+      "chapter": 10,
+      "id": 56,
+      "type": "multiple_choice",
+      "question": "Fractionation occurs when ____.",
+      "options": [
+        "Only a fraction of the charge has been added",
+        "Operating pressures increase",
+        "Some of a blended refrigerant evaporates or condenses before the rest"
+      ],
+      "correct_answer": "Some of a blended refrigerant evaporates or condenses before the rest"
+    },
+    {
+      "chapter": 10,
+      "id": 57,
+      "type": "multiple_choice",
+      "question": "When a warm refrigerant cylinder is connected to an operating system, the cylinder pressure will be ____ than the suction pressure.",
+      "options": ["faster", "lower", "slower", "higher"],
+      "correct_answer": "higher"
+    },
+    {
+      "chapter": 10,
+      "id": 58,
+      "type": "multiple_choice",
+      "question": "Refrigerant in vapor form is normally put into the system through the ____.",
+      "options": ["hot gas line", "liquid return line", "suction line", "liquid line"],
+      "correct_answer": "suction line"
+    },
+    {
+      "chapter": 10,
+      "id": 59,
+      "type": "multiple_choice",
+      "question": "If 22 oz of refrigerant are added and the cylinder originally weighs 24 lb 12 oz, what will it weigh afterward?",
+      "options": ["23 lb 6 oz", "23 lb 12 oz", "22 lb 6 oz", "22 lb 12 oz"],
+      "correct_answer": "23 lb 6 oz"
+    },
+    {
+      "chapter": 10,
+      "id": 60,
+      "type": "true_false",
+      "question": "The quickest method to charge a system is to charge only vapor.",
+      "correct_answer": "False"
+    },
+    {
+      "chapter": 10,
+      "id": 61,
+      "type": "multiple_choice",
+      "question": "How can a technician increase cylinder pressure when it becomes too low to charge?",
+      "options": [
+        "Use an air pressure tank",
+        "Use a heat blanket",
+        "Place tank in warm water (90°F or less)",
+        "Use ice"
+      ],
+      "correct_answer": ["Use a heat blanket", "Place tank in warm water (90°F or less)"]
+    },
+    {
+      "chapter": 10,
+      "id": 62,
+      "type": "true_false",
+      "question": "If the tank is reusable, system refrigerant can enter the tank if system pressure is higher.",
+      "correct_answer": "True"
+    },
+    {
+      "chapter": 10,
+      "id": 63,
+      "type": "multiple_choice",
+      "question": "A graduated cylinder charging device ____.",
+      "options": [
+        "measures refrigerant by volume",
+        "has a heater to prevent temperature drop",
+        "has a compensation dial",
+        "all listed"
+      ],
+      "correct_answer": "all listed"
+    },
+    {
+      "chapter": 10,
+      "id": 64,
+      "type": "multiple_choice",
+      "question": "As refrigerant vapor is removed from a supply cylinder, the pressure will ____.",
+      "options": ["remain the same", "rise", "fall"],
+      "correct_answer": "fall"
+    },
+    {
+      "chapter": 10,
+      "id": 65,
+      "type": "true_false",
+      "question": "Using a restrictor, liquid refrigerant can be charged into the low side with the system operating.",
+      "correct_answer": "True"
+    },
+    {
+      "chapter": 10,
+      "id": 66,
+      "type": "true_false",
+      "question": "When system pressures are lower than tank pressure, refrigerant can be added to both high and low sides.",
+      "correct_answer": "True"
+    },
+    {
+      "chapter": 10,
+      "id": 67,
+      "type": "true_false",
+      "question": "A manufacturer's charging chart may be used to determine correct charge.",
+      "correct_answer": "True"
+    },
+    {
+      "chapter": 10,
+      "id": 68,
+      "type": "true_false",
+      "question": "Glide is the range of temperatures/pressures in which a blended refrigerant will condense.",
+      "correct_answer": "True"
+    },
+    {
+      "chapter": 10,
+      "id": 69,
+      "type": "true_false",
+      "question": "When adding liquid refrigerant into the high side, the compressor must be running.",
+      "correct_answer": "False"
+    },
+    {
+      "chapter": 10,
+      "id": 70,
+      "type": "multiple_choice",
+      "question": "Charging a refrigeration system refers to ____.",
+      "options": ["vaporizing refrigerant", "adding refrigerant", "removing refrigerant", "cleaning refrigerant"],
+      "correct_answer": "adding refrigerant"
+    },
+    {
+      "chapter": 10,
+      "id": 71,
+      "type": "multiple_choice",
+      "question": "Refrigerant vapor is added to an operating system through the ____ side.",
+      "options": ["high-pressure", "neutral-pressure", "low-pressure"],
+      "correct_answer": "low-pressure"
+    },
+    {
+      "chapter": 10,
+      "id": 72,
+      "type": "multiple_choice",
+      "question": "When charging liquid refrigerant from a single-valve cylinder, the cylinder is placed ____.",
+      "options": ["upside down", "right side up", "on its side", "any position"],
+      "correct_answer": "upside down"
+    },
+    {
+      "chapter": 10,
+      "id": 73,
+      "type": "multiple_choice",
+      "question": "If 30 oz of refrigerant are added and the cylinder originally weighs 26 lb 4 oz, what will it weigh afterward?",
+      "options": ["22 lb 8 oz", "24 lb 6 oz", "22 lb 4 oz", "24 lb 8 oz"],
+      "correct_answer": "24 lb 6 oz"
+    },
+    {
+      "chapter": 10,
+      "id": 74,
+      "type": "multiple_choice",
+      "question": "The ____ is used to take high-side pressure readings and trap refrigerant in the receiver.",
+      "options": ["king valve", "check valve", "ball valve"],
+      "correct_answer": "king valve"
+    }
+    ,
+    {
+      "chapter": 36,
+      "id": 75,
+      "type": "multiple_choice",
+      "question": "There are three kinds of attic ventilation: power, natural, and ____.",
+      "options": ["solar", "vacuum", "water"],
+      "correct_answer": "solar"
+    },
+    {
+      "chapter": 36,
+      "id": 76,
+      "type": "multiple_choice",
+      "question": "A homeowner building a house in Las Vegas should locate most windows on the ____ sides to reduce solar load.",
+      "options": ["north and south", "south and west", "north and east", "east and west"],
+      "correct_answer": "north and south"
+    },
+    {
+      "chapter": 36,
+      "id": 77,
+      "type": "multiple_choice",
+      "question": "The package air-conditioning system is ____ than the split system because it is completely factory assembled and charged.",
+      "options": ["less efficient", "more efficient", "slightly less efficient", "slightly more efficient"],
+      "correct_answer": "more efficient"
+    },
+    {
+      "chapter": 36,
+      "id": 78,
+      "type": "multiple_choice",
+      "question": "When exposed to salt air, ____ should be used for screws securing sheet metal on air conditioning equipment.",
+      "options": ["tin", "copper", "iron", "stainless steel"],
+      "correct_answer": "stainless steel"
+    },
+    {
+      "chapter": 36,
+      "id": 79,
+      "type": "true_false",
+      "question": "The supply duct portion of an air handling system needs insulation when run through an unconditioned space.",
+      "correct_answer": "True"
+    },
+    {
+      "chapter": 36,
+      "id": 80,
+      "type": "multiple_choice",
+      "question": "Appearance is a major drawback with what type of air-conditioning equipment?",
+      "options": [
+        "Rooftop package units",
+        "Ductless split systems",
+        "Ground level package units",
+        "Multi-position package units"
+      ],
+      "correct_answer": "Ductless split systems"
+    },
+    {
+      "chapter": 36,
+      "id": 81,
+      "type": "multiple_choice",
+      "question": "On a package air-conditioning system, which refrigerant lines must be field-installed?",
+      "options": [
+        "Discharge and liquid",
+        "Liquid and suction",
+        "No lines need to be field-installed",
+        "Discharge and suction"
+      ],
+      "correct_answer": "No lines need to be field-installed"
+    },
+    {
+      "chapter": 36,
+      "id": 82,
+      "type": "true_false",
+      "question": "The return duct portion of an air handling system never needs to be insulated.",
+      "correct_answer": "False"
+    },
+    {
+      "chapter": 36,
+      "id": 83,
+      "type": "multiple_choice",
+      "question": "What is the major disadvantage of a top-air-discharge condenser?",
+      "options": [
+        "More difficult to install and maintain",
+        "Uses hard-to-source refrigerants",
+        "Fan and motor are more subject to damage from rain, snow, and falling leaves"
+      ],
+      "correct_answer": "Fan and motor are more subject to damage from rain, snow, and falling leaves"
+    },
+    {
+      "chapter": 36,
+      "id": 84,
+      "type": "multiple_choice",
+      "question": "When an 'A' coil is used horizontally, the coil is laid on its side and a special ____ pan is required.",
+      "options": ["condensate", "catch", "oil"],
+      "correct_answer": "condensate"
+    },
+    {
+      "chapter": 36,
+      "id": 85,
+      "type": "multiple_choice",
+      "question": "What are the three common evaporator designs used on air conditioning equipment?",
+      "options": ["H-coil", "B-coil", "slant coil", "A-coil"],
+      "correct_answer": ["H-coil", "slant coil", "A-coil"]
+    },
+    {
+      "chapter": 36,
+      "id": 86,
+      "type": "multiple_choice",
+      "question": "More than one evaporator coil circuit is used when ____.",
+      "options": [
+        "A slant coil is at an angle more than 60°",
+        "The evaporator is outside the conditioned area",
+        "There would be excessive refrigerant pressure drop in the coil circuit",
+        "A distributor would not be practical"
+      ],
+      "correct_answer": "There would be excessive refrigerant pressure drop in the coil circuit"
+    },
+    {
+      "chapter": 36,
+      "id": 87,
+      "type": "multiple_choice",
+      "question": "The solar load on a structure is the heat gain resulting from ____.",
+      "options": [
+        "Heat from the sun's radiation",
+        "Dry-bulb temperature inside the structure",
+        "Heat conducted through materials",
+        "Air infiltration"
+      ],
+      "correct_answer": "Heat from the sun's radiation"
+    }
+  ]
+}

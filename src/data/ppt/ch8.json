@@ -1,0 +1,288 @@
+{
+  "source_file": "RACT_9e_Ch08.pptx",
+  "unit": "Unit 8 Leak Detection, System Evacuation, and System Cleanup",
+  "section": "Section 2 Safety Tools and Equipment and Shop Practices",
+  "slides": [
+    {
+      "slide_number": 1,
+      "title": "Leaks and Leak Checking",
+      "bullets": [
+        "All sealed systems leak",
+        "Flaws exist at every joint fitting seam or weld",
+        "Flaws may be too small to detect but can grow with time vibration temperature and environmental stress"
+      ]
+    },
+    {
+      "slide_number": 2,
+      "title": "Exposing the Leak Site",
+      "bullets": [
+        "Vapor can flow under layers of paint flux rust slag and pipe insulation",
+        "Important to clean the leak site by removing loose paint slag flux or rust",
+        "Remove pipe insulation oil and grease to avoid contaminating detection tips"
+      ]
+    },
+    {
+      "slide_number": 3,
+      "title": "Standing Pressure and Temperature Leaks",
+      "bullets": [
+        "Standing leaks detected while the unit is at rest or off (most common)",
+        "Pressure-dependent leaks detected as system pressure increases",
+        "Temperature-dependent leaks associated with heat of expansion"
+      ]
+    },
+    {
+      "slide_number": 4,
+      "title": "Vibration Combination and Cumulative Leaks",
+      "bullets": [
+        "Vibration-dependent leaks occur during unit operation",
+        "Combination-dependent leaks require two or more conditions to leak",
+        "Cumulative microleaks are many individual leaks too small to detect with standard tools"
+      ]
+    },
+    {
+      "slide_number": 5,
+      "title": "Basic Refrigerant Leak Detection",
+      "bullets": [
+        "Spot refrigerant oil residue for standing leaks",
+        "Test evaporator section leaks",
+        "Test condensing section leaks",
+        "Test suction- and liquid-line leaks"
+      ]
+    },
+    {
+      "slide_number": 6,
+      "title": "Advanced Leak Detection",
+      "bullets": [
+        "Testing for pressure-dependent leaks",
+        "Testing for temperature-dependent leaks",
+        "Testing for vibration-dependent leaks",
+        "Testing for combination-dependent leaks"
+      ]
+    },
+    {
+      "slide_number": 7,
+      "title": "Standing Pressure Test",
+      "bullets": [
+        "Visually inspect newly assembled system",
+        "Solder joints should have no gaps",
+        "Flanged and threaded connections should be tight",
+        "Control valves should be installed properly",
+        "All service valve covers should be in place"
+      ]
+    },
+    {
+      "slide_number": 8,
+      "title": "Visual of a Standing Pressure Test",
+      "bullets": [
+        "Figure 8.12 Isolating the compressor to pressurize the condenser and evaporator"
+      ]
+    },
+    {
+      "slide_number": 9,
+      "title": "Performing a Standing Pressure Test",
+      "bullets": [
+        "Pressurize system with dry nitrogen to no higher than lowest system test pressure",
+        "Allow system to rest for ten minutes",
+        "Mark needle positions on gauge manifold",
+        "Monitor gauge needle position"
+      ]
+    },
+    {
+      "slide_number": 10,
+      "title": "Leak Detection Methods",
+      "bullets": [
+        "Audible leaks are large and relatively easy to locate",
+        "Halide leak detector",
+        "Ultrasonic leak detector",
+        "Ultraviolet leak detectors",
+        "Electronic leak detectors"
+      ]
+    },
+    {
+      "slide_number": 11,
+      "title": "Ultrasonic Leak Detector",
+      "bullets": [
+        "Figure 8.14 An ultrasonic leak detector that listens for leaks"
+      ]
+    },
+    {
+      "slide_number": 12,
+      "title": "Using an Ultraviolet Leak Detector",
+      "bullets": [
+        "Inject oil-specific dye into system through manifold gauge set",
+        "Use a black light to locate refrigerant leak"
+      ]
+    },
+    {
+      "slide_number": 13,
+      "title": "Leak Detection Tips",
+      "bullets": [
+        "System must be evacuated to required vacuum levels",
+        "Visually inspect for oil and dirt spots",
+        "Leaks can be caused by vibration or temperature",
+        "Leak check gauge ports prior to gauge installation",
+        "Start at the highest point and work downward",
+        "Do not rush"
+      ]
+    },
+    {
+      "slide_number": 14,
+      "title": "Repairing Leaks",
+      "bullets": [
+        "Usually not as economical as adding refrigerant",
+        "Best field practice is to repair system leaks whenever possible",
+        "EPA establishes requirements for when leaks must be repaired",
+        "Repair requirements may depend on system type refrigerant used and total system charge"
+      ]
+    },
+    {
+      "slide_number": 15,
+      "title": "Purpose of System Evacuation",
+      "bullets": [
+        "Air contains oxygen nitrogen and water vapor",
+        "Nitrogen is a non-condensable gas",
+        "Non-condensables cause a rise in system operating head pressure",
+        "Oxygen and water vapor cause chemical reactions producing acids electroplating and motor insulation breakdown"
+      ]
+    },
+    {
+      "slide_number": 16,
+      "title": "Degassing and Dehydration",
+      "bullets": [
+        "Chemical combinations create hydrofluoric or hydrochloric acids",
+        "Evacuation equals degassing plus dehydration",
+        "Moisture plus acid plus oil equals sludge",
+        "Sludge can plug system components",
+        "Proper evacuation can eliminate acid and sludge formation"
+      ]
+    },
+    {
+      "slide_number": 17,
+      "title": "Evacuation Theory",
+      "bullets": [
+        "Pulling a vacuum lowers system pressure below atmospheric pressure (14.696 psia or 29.93 in. Hg)",
+        "Degassing removes non-condensable gases",
+        "Systems should be evacuated from high and low pressure sides"
+      ]
+    },
+    {
+      "slide_number": 18,
+      "title": "Measuring the Vacuum",
+      "bullets": [
+        "Pressures below 1 mm Hg are measured in microns",
+        "1000 microns = 1 mm; 1 in. = 25,400 microns",
+        "Micron gauge displays can be electronic analog digital or LED",
+        "Gauge should be located as far as possible from the vacuum pump",
+        "Valve off the vacuum pump when desired vacuum is reached and mark the reading"
+      ]
+    },
+    {
+      "slide_number": 19,
+      "title": "Electronic Micron and Vacuum Gauges",
+      "bullets": [
+        "Figure 8.22 Modern handheld digital electronic micron gauges"
+      ]
+    },
+    {
+      "slide_number": 20,
+      "title": "Recovering Refrigerant",
+      "bullets": [
+        "If refrigerant is or has been in the system it must be removed before evacuating",
+        "Use EPA-approved recovery equipment"
+      ]
+    },
+    {
+      "slide_number": 21,
+      "title": "The Vacuum Pump",
+      "bullets": [
+        "Two-stage rotary vacuum pumps produce the lowest vacuum",
+        "Usual vacuum required by manufacturers is approximately 500 microns",
+        "Very low vacuums cause moisture to boil to vapor which is removed by the pump"
+      ]
+    },
+    {
+      "slide_number": 22,
+      "title": "Deep Vacuum",
+      "bullets": [
+        "Measured in the 250- to 500-micron range",
+        "Once proper micron levels are reached the vacuum pump is valved off",
+        "If pressure remains constant no noncondensable gas or moisture is left in the system"
+      ]
+    },
+    {
+      "slide_number": 23,
+      "title": "Multiple or Triple Evacuation",
+      "bullets": [
+        "Evacuate to about 1,500 microns",
+        "Allow a small amount of dry nitrogen to bleed into the system",
+        "Evacuate again to 1,500 microns",
+        "Repeat three times until last vacuum reaches 250 to 500 microns"
+      ]
+    },
+    {
+      "slide_number": 24,
+      "title": "Leak Detection (Vacuum Gauge Method)",
+      "bullets": [
+        "Watching for pressure rise on a vacuum gauge is not recommended",
+        "If there is a leak air can enter the system during the test",
+        "This method only proves system will not leak under a pressure difference of atmospheric pressure"
+      ]
+    },
+    {
+      "slide_number": 25,
+      "title": "Removing Moisture with a Vacuum",
+      "bullets": [
+        "Apply heat to system when moisture is present to vaporize water",
+        "Vacuum pump will remove the vapor"
+      ]
+    },
+    {
+      "slide_number": 26,
+      "title": "General Evacuation Procedures",
+      "bullets": [
+        "Use a cold trap when appropriate",
+        "Do not start a hermetic compressor while in a deep vacuum",
+        "Apply heat to compressor to assist in removing water under the oil",
+        "Gauge manifolds with large valve ports and hoses help speed evacuation",
+        "Schrader stem depressors can be removed"
+      ]
+    },
+    {
+      "slide_number": 27,
+      "title": "Systems with Schrader Valves",
+      "bullets": [
+        "Systems with Schrader valves take longer to evacuate than systems with service valves",
+        "Field service valves replace Schrader stems while system is under pressure",
+        "Replace Schrader valve caps after service"
+      ]
+    },
+    {
+      "slide_number": 28,
+      "title": "Gauge Manifold Hoses and System Valves",
+      "bullets": [
+        "Hoses can have pinhole leaks slowing evacuation",
+        "Using copper tubing for gauge lines helps eliminate evacuation problems",
+        "Check system valves to verify they are open before evacuation",
+        "Closed valves can trap air in the system"
+      ]
+    },
+    {
+      "slide_number": 29,
+      "title": "Using Dry Nitrogen and Evacuation Without a Manifold",
+      "bullets": [
+        "Sweep dry nitrogen through a sealed system to keep atmosphere out and clean piping",
+        "Evacuating without a manifold reduces resistance to flow shortens evacuation time and produces deeper vacuum levels"
+      ]
+    },
+    {
+      "slide_number": 30,
+      "title": "Cleaning a Dirty System",
+      "bullets": [
+        "Heat can cause refrigerant and oil to break down forming acid soot and sludge",
+        "Sludge cannot be removed with a vacuum pump",
+        "Fumes can be toxic",
+        "Wear safety goggles and gloves"
+      ]
+    }
+  ]
+}

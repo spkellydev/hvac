@@ -1,0 +1,366 @@
+:root {
+  --fresh-sky: #4DAFE0ff;
+  --lobster-pink: #F06065ff;
+  --dim-grey: #696668ff;
+  --white: #FFFFFFff;
+  --dust-grey: #D3D3D4ff;
+  --bg-color: #f4f7f6;
+}
+
+body {
+  background-color: var(--bg-color);
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: #333;
+  margin: 0;
+}
+
+/* App Navigation */
+.app-nav {
+  padding: 15px 20px;
+  margin-bottom: 30px;
+  background-color: var(--white);
+  box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+
+.nav-link {
+  text-decoration: none;
+  color: var(--dim-grey);
+  font-weight: 500;
+  padding: 8px 12px;
+  border-radius: 4px;
+  transition: color 0.2s, background-color 0.2s;
+}
+
+.nav-link:hover {
+  color: var(--fresh-sky);
+  background-color: rgba(77, 175, 224, 0.1);
+}
+
+.nav-link.active {
+  font-weight: bold;
+  color: var(--fresh-sky);
+  background-color: rgba(77, 175, 224, 0.15);
+}
+
+/* Chapter Selection */
+.chapter-select-container {
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.chapter-select-label {
+  margin-right: 10px;
+  font-weight: 600;
+  color: var(--dim-grey);
+}
+
+.shuffle-btn {
+  margin-left: 15px;
+  padding: 8px 16px;
+  background-color: var(--white);
+  color: var(--fresh-sky);
+  border: 1px solid var(--fresh-sky);
+  border-radius: 6px;
+  cursor: pointer;
+  font-weight: 600;
+  transition: all 0.2s;
+}
+
+.shuffle-btn:hover {
+  background-color: var(--fresh-sky);
+  color: var(--white);
+}
+
+/* Quiz Card */
+.quiz-card {
+  border: none;
+  border-radius: 12px;
+  padding: 30px;
+  max-width: 600px;
+  margin: 20px auto;
+  font-family: sans-serif;
+  background-color: var(--white);
+  box-shadow: 0 4px 15px rgba(0,0,0,0.05);
+  transition: transform 0.2s;
+}
+
+.quiz-card:hover {
+  transform: translateY(-2px);
+}
+
+.quiz-header {
+  display: flex;
+  justify-content: space-between;
+  font-size: 0.85rem;
+  color: var(--dim-grey);
+  margin-bottom: 1.5rem;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  border-bottom: 1px solid var(--dust-grey);
+  padding-bottom: 10px;
+}
+
+.quiz-question {
+  font-size: 1.3rem;
+  margin-bottom: 2rem;
+  color: #2c3e50;
+  line-height: 1.4;
+}
+
+.options-grid {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.option-button {
+  padding: 15px;
+  border-radius: 8px;
+  border: 2px solid var(--dust-grey);
+  background-color: var(--white);
+  cursor: pointer;
+  text-align: left;
+  transition: all 0.2s ease;
+  font-size: 1rem;
+  color: var(--dim-grey);
+}
+
+.option-button:hover:not(:disabled) {
+  border-color: var(--fresh-sky);
+  background-color: #f0f9ff;
+}
+
+.option-button.selected {
+  border-color: var(--fresh-sky);
+  background-color: #e7f1ff;
+  color: var(--fresh-sky);
+  font-weight: 600;
+}
+
+.option-button.correct {
+  background-color: #d4edda;
+  border-color: #28a745;
+  color: #155724;
+}
+
+.option-button.incorrect {
+  background-color: #f8d7da;
+  border-color: var(--lobster-pink);
+  color: #721c24;
+}
+
+.submit-btn {
+  margin-top: 25px;
+  width: 100%;
+  padding: 12px;
+  background-color: var(--fresh-sky);
+  color: var(--white);
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  font-size: 1.1rem;
+  font-weight: 600;
+  transition: background-color 0.2s;
+  box-shadow: 0 4px 6px rgba(77, 175, 224, 0.3);
+}
+
+.submit-btn:hover:not(:disabled) {
+  background-color: #3b9ac6;
+  transform: translateY(-1px);
+}
+
+.submit-btn:disabled {
+  background-color: var(--dust-grey);
+  cursor: not-allowed;
+  box-shadow: none;
+}
+
+.feedback-success {
+  margin-top: 20px;
+  padding: 15px;
+  border-radius: 8px;
+  background-color: #d4edda;
+  color: #155724;
+  text-align: center;
+  font-weight: 600;
+  border: 1px solid #c3e6cb;
+}
+
+.feedback-error {
+  margin-top: 20px;
+  padding: 15px;
+  border-radius: 8px;
+  background-color: #f8d7da;
+  color: #721c24;
+  text-align: center;
+  font-weight: 600;
+  border: 1px solid #f5c6cb;
+}
+
+/* PPT Viewer */
+.ppt-container {
+  padding: 20px;
+  max-width: 900px;
+  margin: 0 auto;
+  text-align: left;
+}
+
+.ppt-card {
+  border: none;
+  border-radius: 12px;
+  margin-bottom: 20px;
+  overflow: hidden;
+  box-shadow: 0 4px 15px rgba(0,0,0,0.05);
+  background-color: var(--white);
+}
+
+.ppt-card-header {
+  background-color: var(--fresh-sky);
+  color: var(--white);
+  padding: 15px 20px;
+  font-weight: bold;
+  font-size: 1rem;
+  border-bottom: none;
+}
+
+.ppt-card-body {
+  padding: 25px;
+  background-color: var(--white);
+  min-height: 350px;
+  overflow-y: auto;
+  font-size: 1.1rem;
+  line-height: 1.6;
+}
+
+.ppt-card-footer {
+  padding: 15px 20px;
+  border-top: 1px solid #eee;
+  background-color: #fafafa;
+  display: flex;
+  justify-content: space-between;
+}
+
+.ppt-nav-button {
+  padding: 10px 20px;
+  background-color: var(--white);
+  color: var(--dim-grey);
+  border: 1px solid var(--dust-grey);
+  border-radius: 6px;
+  cursor: pointer;
+  font-weight: 600;
+  transition: all 0.2s;
+}
+
+.ppt-nav-button:hover:not(:disabled) {
+  border-color: var(--fresh-sky);
+  color: var(--fresh-sky);
+}
+
+.ppt-nav-button:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+}
+
+/* Slide Renderer */
+.slide-ul {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  padding-left: 25px;
+}
+
+.slide-li {
+  margin-bottom: 8px;
+}
+
+.slide-title {
+  margin-top: 0;
+  margin-bottom: 15px;
+  color: var(--fresh-sky);
+  font-size: 1.5rem;
+  border-bottom: 2px solid #f0f0f0;
+  padding-bottom: 10px;
+}
+
+.slide-entry-container {
+  margin-bottom: 15px;
+  background: #f9f9f9;
+  padding: 10px;
+  border-radius: 6px;
+}
+
+.slide-key-label {
+  color: var(--dim-grey);
+  display: block;
+  margin-bottom: 5px;
+  font-size: 0.9rem;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+.slide-value-container {
+  margin-left: 0;
+  color: #333;
+}
+
+/* Home Page */
+.home-container {
+  max-width: 900px;
+  margin: 60px auto;
+  text-align: center;
+  padding: 20px;
+}
+
+.home-title {
+  color: var(--fresh-sky);
+  font-size: 3rem;
+  margin-bottom: 15px;
+  font-weight: 800;
+}
+
+.home-description {
+  color: var(--dim-grey);
+  font-size: 1.3rem;
+  margin-bottom: 50px;
+}
+
+.home-links {
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+  flex-wrap: wrap;
+}
+
+.home-card {
+  background-color: var(--white);
+  border: none;
+  border-radius: 12px;
+  padding: 40px 30px;
+  width: 280px;
+  text-decoration: none;
+  color: inherit;
+  box-shadow: 0 10px 25px rgba(0,0,0,0.05);
+  transition: transform 0.3s, box-shadow 0.3s;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.home-card:hover {
+  transform: translateY(-8px);
+  box-shadow: 0 15px 35px rgba(0,0,0,0.1);
+}
+
+.home-card h2 {
+  color: var(--fresh-sky);
+  margin-top: 0;
+  margin-bottom: 15px;
+  font-size: 1.5rem;
+}
+
+.home-card p {
+  color: var(--dim-grey);
+  line-height: 1.5;
+}
