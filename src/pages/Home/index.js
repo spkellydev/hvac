@@ -15,6 +15,10 @@ const Home = () => {
           <h2>View Slides</h2>
           <p>Review presentation slides for each chapter.</p>
         </Link>
+        <Link to="/heat-load" className="home-card">
+          <h2>Heat Load Calculator</h2>
+          <p>Calculate the heat load for your building.</p>
+        </Link>
       </div>
     </div>
   );
