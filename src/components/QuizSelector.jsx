@@ -7,7 +7,13 @@ export default function QuizSelector({ onSelectQuiz }) {
 
   const handleSelectCourse = (course) => {
     const courseQuizzes = quizzes.filter((q) => q.course === course);
-    const allQuestions = courseQuizzes.reduce((acc, q) => [...acc, ...(q.questions || [])], []);
+    const allQuestions = courseQuizzes.reduce((acc, quiz) => {
+      const questions = (quiz.questions || []).map((q) => ({
+        ...q,
+        id: `${quiz.id}-${q.id}`,
+      }));
+      return [...acc, ...questions];
+    }, []);
 
     onSelectQuiz({
       id: course,
