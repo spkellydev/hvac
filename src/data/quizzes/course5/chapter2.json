@@ -1,0 +1,199 @@
+{
+  "course": 5,
+  "course_name": "Hydronic Heating Systems",
+  "questions": [
+    {
+      "id": 1,
+      "chapter": 2,
+      "type": "multiple_choice",
+      "question": "When the heating degree day method was developed, fuel was _____ and buildings were _____ insulated.",
+      "options": ["ethanol-based, not", "inexpensive, poorly", "expensive, well", "leaded, asbestos"],
+      "correct_answer": "inexpensive, poorly"
+    },
+    {
+      "id": 2,
+      "chapter": 2,
+      "type": "true_false",
+      "question": "It is relatively impossible to assess the location and magnitude of all the air leakage paths in a typical building.",
+      "correct_answer": "True"
+    },
+    {
+      "id": 3,
+      "chapter": 2,
+      "type": "multiple_choice",
+      "question": "The U-value of any material or assembly is simply the reciprocal of the ____ of that material or assembly.",
+      "options": ["R-value", "thickness", "exposure", "temperature"],
+      "correct_answer": "R-value"
+    },
+    {
+      "id": 4,
+      "chapter": 2,
+      "type": "multiple_choice",
+      "question": "Since the walls, floors, and ceilings of buildings are rarely constructed of a single material, it is often necessary to determine the ______ of an assembly made up of several materials in contact with each other.",
+      "options": ["thickness", "density", "total U-value", "total R-value"],
+      "correct_answer": "total R-value"
+    },
+    {
+      "id": 5,
+      "chapter": 2,
+      "type": "multiple_choice",
+      "question": "The rate at which domestic hot water is used at the fixtures within a building varies considerably with the type of ____, and the time of day.",
+      "options": ["occupancy", "water meter", "tank", "piping"],
+      "correct_answer": "occupancy"
+    },
+    {
+      "id": 6,
+      "chapter": 2,
+      "type": "multiple_choice",
+      "question": "To estimate the annual space heating cost provided by an electrically operated heat pump, its average COP must be factored in. What does COP stand for?",
+      "options": ["correlation of production", "calculation of price", "correlation of parts", "coefficient of performance"],
+      "correct_answer": "coefficient of performance"
+    },
+    {
+      "id": 7,
+      "chapter": 2,
+      "type": "multiple_choice",
+      "question": "The contour lines with temperatures labeled in °C are called _____.",
+      "options": ["isotherms", "elevation lines", "degree heating contours", "thermal barriers"],
+      "correct_answer": "isotherms"
+    },
+    {
+      "id": 8,
+      "chapter": 2,
+      "type": "multiple_choice",
+      "question": "An object's thermal ____ can be defined as its thickness in the direction of heat flow divided by its thermal conductivity.",
+      "options": ["reactivity", "reciprocity", "representation", "resistance"],
+      "correct_answer": "resistance"
+    },
+    {
+      "id": 9,
+      "chapter": 2,
+      "type": "true_false",
+      "question": "Many residential and commercial buildings have concrete floor slabs rather than crawl spaces or full basements. Downward heat losses are relatively large from interior areas of the floor slab.",
+      "correct_answer": "False"
+    },
+    {
+      "id": 10,
+      "chapter": 2,
+      "type": "true_false",
+      "question": "An important aspect of domestic water-heating loads is the peak hourly demand.",
+      "correct_answer": "True"
+    },
+    {
+      "id": 11,
+      "chapter": 2,
+      "type": "multiple_choice",
+      "question": "In addition to conduction losses, heat is also carried out of buildings by uncontrolled air leakage. This is called ____ heat loss.",
+      "options": ["insulation", "air volume", "anti-thermal", "infiltration"],
+      "correct_answer": "infiltration"
+    },
+    {
+      "id": 12,
+      "chapter": 2,
+      "type": "multiple_choice",
+      "question": "The proper approach is to perform a heat load calculation ____. ",
+      "options": ["based on the owner's usage", "for the entire building", "factoring seasonal requirements", "for each room"],
+      "correct_answer": "for each room"
+    },
+    {
+      "id": 13,
+      "chapter": 2,
+      "type": "multiple_choice",
+      "question": "All electric, gas, and oil-fired storage type water heaters sold in the United States have a _____.",
+      "options": ["12-hour rating", "24-hour rating", "second-hour rating", "first-hour rating"],
+      "correct_answer": "first-hour rating"
+    },
+    {
+      "id": 14,
+      "chapter": 2,
+      "type": "multiple_choice",
+      "question": "The R-value of a material is _____ dependent on the material’s temperature.",
+      "options": ["not", "interdependent", "greatly", "slightly"],
+      "correct_answer": "slightly"
+    },
+    {
+      "id": 15,
+      "chapter": 2,
+      "type": "true_false",
+      "question": "The U-value of any material or assembly is simply the reciprocal of the R-value of that material or assembly.",
+      "correct_answer": "True"
+    },
+    {
+      "id": 16,
+      "chapter": 2,
+      "type": "multiple_choice",
+      "question": "One method of approximating the heat loss through basement walls is based on dividing the wall into ___ strips based on the height of finish grade.",
+      "options": ["masonry", "elevation", "horizontal", "vertical"],
+      "correct_answer": "horizontal"
+    },
+    {
+      "id": 17,
+      "chapter": 2,
+      "type": "true_false",
+      "question": "The R-value of a material is directly proportional to its thickness.",
+      "correct_answer": "True"
+    },
+    {
+      "id": 18,
+      "chapter": 2,
+      "type": "multiple_choice",
+      "question": "The heating load is ____ of heat flow from the building to the outside air.",
+      "options": ["a rate", "one unit", "the quantity", "the cost"],
+      "correct_answer": "a rate"
+    },
+    {
+      "id": 19,
+      "chapter": 2,
+      "type": "multiple_choice",
+      "question": "In addition to the thermal resistances of the solid materials, there are two thermal resistances, called the ____ film resistance and ____ film resistance.",
+      "options": ["red, green", "hot, cold", "inside air, outside air", "solid, liquid"],
+      "correct_answer": "inside air, outside air"
+    },
+    {
+      "id": 20,
+      "chapter": 2,
+      "type": "true_false",
+      "question": "One can assume that individual room heating loads are proportional to room floor area.",
+      "correct_answer": "False"
+    },
+    {
+      "id": 21,
+      "chapter": 2,
+      "type": "multiple_choice",
+      "question": "All building surfaces that separate heated space from unheated space (walls, windows, ceilings, doors, foundation, etc.) are called the ____ of the building.",
+      "options": ["resistance factors", "heat load variables", "isotherms", "thermal envelope"],
+      "correct_answer": "thermal envelope"
+    },
+    {
+      "id": 22,
+      "chapter": 2,
+      "type": "multiple_choice",
+      "question": "To compensate for the effect of internal heat gains and warm-weather degree days, ASHRAE devised a correction multiplier known as _____.",
+      "options": ["Cd factor", "mechanical factor", "performance factor", "value factor"],
+      "correct_answer": "Cd factor"
+    },
+    {
+      "id": 23,
+      "chapter": 2,
+      "type": "multiple_choice",
+      "question": "One common method of factoring local weather conditions into estimates of heating energy use is based on heating ____.",
+      "options": ["historical records", "degree days", "thermos", "air changes"],
+      "correct_answer": "degree days"
+    },
+    {
+      "id": 24,
+      "chapter": 2,
+      "type": "multiple_choice",
+      "question": "The gallons of hot water supplied as the first-hour rating are based on a ___ °F temperature rise between the incoming cold water and the leaving hot water.",
+      "options": ["90", "75", "45", "60"],
+      "correct_answer": "90"
+    },
+    {
+      "id": 25,
+      "chapter": 2,
+      "type": "true_false",
+      "question": "The number of heating degree days that accumulate in a 24‑hour period is the difference between 65°F and the average outdoor air temperature during that period.",
+      "correct_answer": "True"
+    }
+  ]
+}

@@ -1,0 +1,198 @@
+{
+  "course": 5,
+  "course_name": "Hydronic Heating Systems",
+  "questions": [
+    {
+      "id": 1,
+      "chapter": 7,
+      "type": "multiple_choice",
+      "question": "To reduce the number of circulator models needed and still cover a wide range of performance requirements, most circulator manufacturers now offer wet rotor circulators capable of operating at ____ different speeds.",
+      "options": ["three", "many", "five", "four"],
+      "correct_answer": "three"
+    },
+    {
+      "id": 2,
+      "chapter": 7,
+      "type": "multiple_choice",
+      "question": "If the system experiencing cavitation is operating at a relatively high water temperature (above 190°F), try lowering the boiler aquastat setting by about ____.",
+      "options": ["30°F", "10°F", "15°F", "20°F"],
+      "correct_answer": "20°F"
+    },
+    {
+      "id": 3,
+      "chapter": 7,
+      "type": "true_false",
+      "question": "The fluid's mechanical energy content is increased as it is accelerated toward the inner edge of the impeller.",
+      "correct_answer": "False"
+    },
+    {
+      "id": 4,
+      "chapter": 7,
+      "type": "multiple_choice",
+      "question": "One of the Hydraulic Institute's recent undertakings was to develop a __________ that allows for energy use comparisons between circulators under consideration for a specific hydronic system application.",
+      "options": ["purging method", "circulator rating program", "priming method", "fueling program"],
+      "correct_answer": "circulator rating program"
+    },
+    {
+      "id": 5,
+      "chapter": 7,
+      "type": "true_false",
+      "question": "Circulators with 'flat' pump curves should be used when the objective is to maintain a relatively turbulent pressure differential across the distribution system over a wide range of flow rates.",
+      "correct_answer": "False"
+    },
+    {
+      "id": 6,
+      "chapter": 7,
+      "type": "true_false",
+      "question": "The pump curve for two identical circulators connected in parallel is obtained by doubling the flow rate of a single circulator at each head value.",
+      "correct_answer": "False"
+    },
+    {
+      "id": 7,
+      "chapter": 7,
+      "type": "multiple_choice",
+      "question": "When designing a piping system, select a circulator that delivers up to ____ more head than required at the desired flow rate.",
+      "options": ["50%", "10%", "25%", "5%"],
+      "correct_answer": "10%"
+    },
+    {
+      "id": 8,
+      "chapter": 7,
+      "type": "multiple_choice",
+      "question": "The ER (Energy Rating) procedure involves gathering several types of performance data for a circulator, including its ____________, along with electrical input power and hydraulic output power at several flow rates.",
+      "options": ["worst efficiency point (WEP)", "best efficiency point (BEP)", "circulation efficiency point (CEP)", "annual efficiency point (AEP)"],
+      "correct_answer": "best efficiency point (BEP)"
+    },
+    {
+      "id": 9,
+      "chapter": 7,
+      "type": "true_false",
+      "question": "The rate at which a circulator adds head to the fluid in a piping system equals the rate at which the piping system dissipates this head, and this system is said to be in hydraulic equilibrium.",
+      "correct_answer": "True"
+    },
+    {
+      "id": 10,
+      "chapter": 7,
+      "type": "true_false",
+      "question": "The motor of a wet rotor circulator is totally cooled and lubricated by the system's fluid.",
+      "correct_answer": "True"
+    },
+    {
+      "id": 11,
+      "chapter": 7,
+      "type": "multiple_choice",
+      "question": "The circulators used in hydronic systems are technically classified as ____ pumps.",
+      "options": ["centrifugal", "rotational", "pressurized", "nominal"],
+      "correct_answer": "centrifugal"
+    },
+    {
+      "id": 12,
+      "chapter": 7,
+      "type": "multiple_choice",
+      "question": "A flow-check valve, or spring-loaded check valve, needs to be installed in each piping circuit anytime multiple circulators are installed ____.",
+      "options": ["proportionally", "in series", "in parallel", "in half unions"],
+      "correct_answer": "in parallel"
+    },
+    {
+      "id": 13,
+      "chapter": 7,
+      "type": "multiple_choice",
+      "question": "One of the biggest advancements in hydronic heating technology over the past two decades is the development of circulators that can __________________ to adjust to differential pressure changes within the distribution system.",
+      "options": ["uniformly vary their speed", "automatically vary their speed", "electrically vary their speed", "manually vary their speed"],
+      "correct_answer": "automatically vary their speed"
+    },
+    {
+      "id": 14,
+      "chapter": 7,
+      "type": "multiple_choice",
+      "question": "The most common method of connecting a circulator to piping is with bolted flanges. A special type of flange, known as an isolation flange, contains a built-in ____.",
+      "options": ["water pump", "impeller", "thermometer", "ball valve"],
+      "correct_answer": "ball valve"
+    },
+    {
+      "id": 15,
+      "chapter": 7,
+      "type": "multiple_choice",
+      "question": "The net positive suction head available (NPSHA) is a precise description of the state of the fluid, within a specific piping system, as it enters the circulator. It includes the effects of temperature, pressure, velocity, and the fluid's ____ into a single number.",
+      "options": ["vapor pressure", "flow", "hydraulic equilibrium", "vapor equilibrium"],
+      "correct_answer": "vapor pressure"
+    },
+    {
+      "id": 16,
+      "chapter": 7,
+      "type": "multiple_choice",
+      "question": "Every circulator has a minimum required value of net positive suction head in order to operate without cavitation. This value is called the __________________.",
+      "options": ["Net Absolute Suction Head Required", "Net Positive Suction Head Required", "Net Negative Suction Head Required", "Net Energy Suction Head Required"],
+      "correct_answer": "Net Positive Suction Head Required"
+    },
+    {
+      "id": 17,
+      "chapter": 7,
+      "type": "multiple_choice",
+      "question": "Another way of installing circulators in series is called a(n) __________________.",
+      "options": ["equal pull", "uniform", "push/pull arrangement", "modern series"],
+      "correct_answer": "push/pull arrangement"
+    },
+    {
+      "id": 18,
+      "chapter": 7,
+      "type": "multiple_choice",
+      "question": "The circulator must first be filled with water and purged of most air before it can operate properly. This is called _______.",
+      "options": ["pumping", "fueling", "priming", "cleaning"],
+      "correct_answer": "priming"
+    },
+    {
+      "id": 19,
+      "chapter": 7,
+      "type": "true_false",
+      "question": "Most circulators used in smaller hydronic systems are designed to be installed with their shafts in a horizontal position.",
+      "correct_answer": "True"
+    },
+    {
+      "id": 20,
+      "chapter": 7,
+      "type": "multiple_choice",
+      "question": "The circulator must first be filled with water and purged of most air before it can operate properly. This is called ____. ",
+      "options": ["purging", "priming", "compressing", "volumizing"],
+      "correct_answer": "priming"
+    },
+    {
+      "id": 21,
+      "chapter": 7,
+      "type": "true_false",
+      "question": "Always install the circulator so that its inlet is close to the connection point of the system's expansion tank.",
+      "correct_answer": "False"
+    },
+    {
+      "id": 22,
+      "chapter": 7,
+      "type": "true_false",
+      "question": "For a liquid at a given temperature, cavitation occurs anywhere the liquid's pressure drops below its vapor pressure.",
+      "correct_answer": "True"
+    },
+    {
+      "id": 23,
+      "chapter": 7,
+      "type": "multiple_choice",
+      "question": "An increase in pressure from the inlet to outlet port of an operating circulator is the 'evidence' that ____ has been added to the fluid.",
+      "options": ["head energy", "antifreeze", "more volume", "thermal dynamics"],
+      "correct_answer": "head energy"
+    },
+    {
+      "id": 24,
+      "chapter": 7,
+      "type": "multiple_choice",
+      "question": "When vapor pockets form from liquid water, the density inside the vapor pocket is about ______ lower than the surrounding liquid.",
+      "options": ["1,200 times", "900 times", "1,500 times", "600 times"],
+      "correct_answer": "1,500 times"
+    },
+    {
+      "id": 25,
+      "chapter": 7,
+      "type": "multiple_choice",
+      "question": "For a liquid at a given temperature, cavitation occurs anywhere the liquid’s pressure ____ its vapor pressure.",
+      "options": ["exceeds", "is compressed by", "drops below", "is in equilibrium with"],
+      "correct_answer": "drops below"
+    }
+  ]
+}

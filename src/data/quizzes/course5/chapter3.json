@@ -1,0 +1,196 @@
+{
+  "course": 5,
+  "course_name": "Hydronic Heating Systems",
+  "questions": [
+    {
+      "id": 1,
+      "chapter": 3,
+      "type": "multiple_choice",
+      "question": "A boiler operates at _____ efficiency only when it is being fired continuously under nonvarying conditions.",
+      "options": ["manufacturer", "measurable", "DOE-certified", "steady-state"],
+      "correct_answer": "steady-state"
+    },
+    {
+      "id": 2,
+      "chapter": 3,
+      "type": "multiple_choice",
+      "question": "The most widely used hydronic heat pump is configured to extract heat from _________.",
+      "options": ["a piston motor", "flue gas", "a water source", "a converter"],
+      "correct_answer": "a water source"
+    },
+    {
+      "id": 3,
+      "chapter": 3,
+      "type": "multiple_choice",
+      "question": "Most cast-iron sectional boilers are limited to use in ____ hydronic systems.",
+      "options": ["distributed", "closed loop", "packaged", "bare-bones"],
+      "correct_answer": "closed loop"
+    },
+    {
+      "id": 4,
+      "chapter": 3,
+      "type": "multiple_choice",
+      "question": "Analysis of combustion processes reveals that significant amounts of heat can be recaptured from the exhaust stream if the water vapor it contains can be ____.",
+      "options": ["condensed within the boiler", "expelled from the system", "replenished regularly", "minimized"],
+      "correct_answer": "condensed within the boiler"
+    },
+    {
+      "id": 5,
+      "chapter": 3,
+      "type": "multiple_choice",
+      "question": "Drain-back combi-systems do not require _____ to properly operate.",
+      "options": ["antifreeze", "water drains", "DOE certified fixtures", "collector heat exchangers"],
+      "correct_answer": "antifreeze"
+    },
+    {
+      "id": 6,
+      "chapter": 3,
+      "type": "multiple_choice",
+      "question": "Modern two-stage cordwood gasification boilers can achieve thermal efficiencies in the range of ___.",
+      "options": ["40-50%", "90%", "10-25%", "70-80%"],
+      "correct_answer": "70-80%"
+    },
+    {
+      "id": 7,
+      "chapter": 3,
+      "type": "multiple_choice",
+      "question": "Most older wood stoves and cordwood boilers are ____________.",
+      "options": ["gasoline motors", "single stage combustion", "installed in the attic area only", "made with brass jackets"],
+      "correct_answer": "single stage combustion"
+    },
+    {
+      "id": 8,
+      "chapter": 3,
+      "type": "true_false",
+      "question": "The term 'hydronic heat pump' always refers to a heat pump that delivers heat to a flowing stream of water.",
+      "correct_answer": "True"
+    },
+    {
+      "id": 9,
+      "chapter": 3,
+      "type": "multiple_choice",
+      "question": "The heart of the flat plate collector is its ______.",
+      "options": ["circuit panel", "collection array", "absorber plate", "solar tile"],
+      "correct_answer": "absorber plate"
+    },
+    {
+      "id": 10,
+      "chapter": 3,
+      "type": "multiple_choice",
+      "question": "Most water-to-water heat pumps have minimum ____ source water temperatures specified by their manufacturer.",
+      "options": ["internal", "outlet", "steady-state", "inlet"],
+      "correct_answer": "inlet"
+    },
+    {
+      "id": 11,
+      "chapter": 3,
+      "type": "multiple_choice",
+      "question": "___________ are called open-loop sources since, at some location, the water they contain is exposed to the atmosphere.",
+      "options": ["Oils, mines, and gas fields", "Tubes, drains and collectors", "Collectors, thermal tanks and valves", "Wells, ponds, or lakes"],
+      "correct_answer": "Wells, ponds, or lakes"
+    },
+    {
+      "id": 12,
+      "chapter": 3,
+      "type": "true_false",
+      "question": "Many heat pumps have internal temperature controllers that monitor the inlet water temperature.",
+      "correct_answer": "True"
+    },
+    {
+      "id": 13,
+      "chapter": 3,
+      "type": "true_false",
+      "question": "Many boilers currently used in North America were designed with the intent that flue gases would condense within the boiler.",
+      "correct_answer": "False"
+    },
+    {
+      "id": 14,
+      "chapter": 3,
+      "type": "multiple_choice",
+      "question": "Boilers with low thermal mass tend to have ____ cycle efficiencies due to lesser amounts of heat remaining in the boiler following burner shutdown.",
+      "options": ["dependable", "predictable", "higher", "lower"],
+      "correct_answer": "higher"
+    },
+    {
+      "id": 15,
+      "chapter": 3,
+      "type": "true_false",
+      "question": "If a cast-iron boiler is significantly oversized and experiences long off-times between firing cycles, much of the heat stored in the boiler’s thermal mass can be carried up the flue by air currents passing through the combustion chamber.",
+      "correct_answer": "True"
+    },
+    {
+      "id": 16,
+      "chapter": 3,
+      "type": "true_false",
+      "question": "Conventional gas- and oil-fired boilers are currently used in the vast majority of residential and light commercial hydronic systems in North America.",
+      "correct_answer": "True"
+    },
+    {
+      "id": 17,
+      "chapter": 3,
+      "type": "true_false",
+      "question": "Condensing boilers are designed with large heat exchanger surfaces capable of extracting more heat from the exhaust gases compared to the heat exchangers in conventional boilers.",
+      "correct_answer": "True"
+    },
+    {
+      "id": 18,
+      "chapter": 3,
+      "type": "multiple_choice",
+      "question": "It is vital that the solar collectors and all exposed piping in a drain-back system be pitched a minimum of ____ toward the storage tank to allow complete drainage.",
+      "options": ["1/4 in/ft", "1/2 in/ft", "1/16 in/ft", "1/8 in/ft"],
+      "correct_answer": "1/4 in/ft"
+    },
+    {
+      "id": 19,
+      "chapter": 3,
+      "type": "true_false",
+      "question": "The heating capacity of the heat pump drops rapidly with increasing source water temperature.",
+      "correct_answer": "False"
+    },
+    {
+      "id": 20,
+      "chapter": 3,
+      "type": "multiple_choice",
+      "question": "One type of boiler design surrounds the combustion chamber with a water-filled heat exchanger. This arrangement is called a ____ boiler.",
+      "options": ["condensation", "wet-base", "steam", "domestic"],
+      "correct_answer": "wet-base"
+    },
+    {
+      "id": 21,
+      "chapter": 3,
+      "type": "true_false",
+      "question": "The cast-iron sectional boiler is currently one of the most common boilers used in residential and light commercial buildings in North America.",
+      "correct_answer": "True"
+    },
+    {
+      "id": 22,
+      "chapter": 3,
+      "type": "true_false",
+      "question": "It is not advisable to maintain water flow through the condenser whenever the heat pump is operating.",
+      "correct_answer": "False"
+    },
+    {
+      "id": 23,
+      "chapter": 3,
+      "type": "true_false",
+      "question": "In full storage ETS systems, all energy used during the subsequent on-peak period is purchased and stored during the peak cycle.",
+      "correct_answer": "False"
+    },
+    {
+      "id": 24,
+      "chapter": 3,
+      "type": "multiple_choice",
+      "question": "A ____ is a device for converting low-temperature heat into higher temperature heat.",
+      "options": ["flue gasket", "radiating unit", "thermal converter", "heat pump"],
+      "correct_answer": "heat pump"
+    },
+    {
+      "id": 25,
+      "chapter": 3,
+      "type": "multiple_choice",
+      "question": "All solar thermal systems use a _____ consisting of one or more _________.",
+      "options": ["collection array, solar collectors", "pv panel, pv cells", "R-value insulation, panels", "flue damper, natural gas pipes"],
+      "correct_answer": "collection array, solar collectors"
+    }
+  ]
+}

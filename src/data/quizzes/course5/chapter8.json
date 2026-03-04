@@ -1,0 +1,198 @@
+{
+  "course": 5,
+  "course_name": "Hydronic Heating Systems",
+  "questions": [
+    {
+      "id": 1,
+      "chapter": 8,
+      "type": "multiple_choice",
+      "question": "Unlike finned-tube baseboards, radiant baseboards have ___________.",
+      "options": ["flat fins", "small fins", "no fins", "aluminum fins"],
+      "correct_answer": "no fins"
+    },
+    {
+      "id": 2,
+      "chapter": 8,
+      "type": "multiple_choice",
+      "question": "The term fan-coil applies to units that are mounted within _____________. Some fan-coils use a propeller-type __________ driven by a motor to create airflow across the coil.",
+      "options": ["rooms, electronic fan driven", "occupied spaces, fan driven", "building chases", "hallways, fan driven"],
+      "correct_answer": "occupied spaces, fan driven"
+    },
+    {
+      "id": 3,
+      "chapter": 8,
+      "type": "multiple_choice",
+      "question": "The heat output of a fan-coil is approximately proportional to the temperature difference between the ________________.",
+      "options": ["exiting air and exiting water", "warm and cool air", "hot and cold water", "entering air and entering water"],
+      "correct_answer": "entering air and entering water"
+    },
+    {
+      "id": 4,
+      "chapter": 8,
+      "type": "true_false",
+      "question": "Panel radiators typically require much more wall space than fin-tube baseboard sized for equivalent heat output and operating conditions.",
+      "correct_answer": "False"
+    },
+    {
+      "id": 5,
+      "chapter": 8,
+      "type": "multiple_choice",
+      "question": "Operating panel radiators at ____ water temperatures increases the percentage of radiant versus convective heat output from the panel.",
+      "options": ["ambient", "thermally equalized", "higher", "lower"],
+      "correct_answer": "lower"
+    },
+    {
+      "id": 6,
+      "chapter": 8,
+      "type": "true_false",
+      "question": "When rooms lack the wall space needed to mount finned-tube baseboard, one alternative is to use a hydronic fan-coil or air handler.",
+      "correct_answer": "True"
+    },
+    {
+      "id": 7,
+      "chapter": 8,
+      "type": "multiple_choice",
+      "question": "Preliminary lengths of finned-tube baseboard can be selected by basing the _______ of each baseboard on the average temperature of the fluid in the piping circuit.",
+      "options": ["moisture content", "thermal output", "heat output", "pressure range"],
+      "correct_answer": "heat output"
+    },
+    {
+      "id": 8,
+      "chapter": 8,
+      "type": "multiple_choice",
+      "question": "Finned-tube baseboard convectors operate on the principle that __________ due to its lower density.",
+      "options": ["cooled air normalizes", "heated air rises", "cooled air rises", "heated air normalizes"],
+      "correct_answer": "heated air rises"
+    },
+    {
+      "id": 9,
+      "chapter": 8,
+      "type": "multiple_choice",
+      "question": "Hydronic fan-coils have two common components — a(n) ____ heat exchanger (often called the 'coil') through which system fluid flows and a blower or fan that forces air to flow across the coil.",
+      "options": ["finned-tube", "ceramic", "cast iron", "open-looped"],
+      "correct_answer": "finned-tube"
+    },
+    {
+      "id": 10,
+      "chapter": 8,
+      "type": "true_false",
+      "question": "Parallel piping methods allow independent flow rate adjustment for each baseboard.",
+      "correct_answer": "False"
+    },
+    {
+      "id": 11,
+      "chapter": 8,
+      "type": "multiple_choice",
+      "question": "Most panel radiators are made of steel. Some are built of ____________ welded together at their perimeter.",
+      "options": ["aluminum sheets", "wrought iron", "a super metal alloy", "preformed steel sheets"],
+      "correct_answer": "preformed steel sheets"
+    },
+    {
+      "id": 12,
+      "chapter": 8,
+      "type": "multiple_choice",
+      "question": "Whenever air is used to transport heat, ______ movement can become a problem.",
+      "options": ["dust", "pollen", "germ", "moisture"],
+      "correct_answer": "dust"
+    },
+    {
+      "id": 13,
+      "chapter": 8,
+      "type": "true_false",
+      "question": "As a rule, convectors are well suited for rooms with high ceilings.",
+      "correct_answer": "False"
+    },
+    {
+      "id": 14,
+      "chapter": 8,
+      "type": "true_false",
+      "question": "The rate of heat transfer depends on either the temperature difference or the flow rate.",
+      "correct_answer": "False"
+    },
+    {
+      "id": 15,
+      "chapter": 8,
+      "type": "true_false",
+      "question": "The balance between convective heat transfer and radiative heat transfer can significantly affect the comfort achieved by various heat emitters.",
+      "correct_answer": "True"
+    },
+    {
+      "id": 16,
+      "chapter": 8,
+      "type": "true_false",
+      "question": "The heat output of a fan-coil is approximately proportional to the temperature difference between the entering air and entering water.",
+      "correct_answer": "True"
+    },
+    {
+      "id": 17,
+      "chapter": 8,
+      "type": "multiple_choice",
+      "question": "The head loss of radiant baseboard can be determined by considering each baseboard to be a tubing circuit approximately ____ as long as the baseboard extrusion.",
+      "options": ["three times", "equally", "twice", "half"],
+      "correct_answer": "twice"
+    },
+    {
+      "id": 18,
+      "chapter": 8,
+      "type": "multiple_choice",
+      "question": "When baseboards are connected ____, each receives water at the temperature supplied to the manifold.",
+      "options": ["in series", "to a thermostat", "with copper tubing", "in parallel"],
+      "correct_answer": "in parallel"
+    },
+    {
+      "id": 19,
+      "chapter": 8,
+      "type": "multiple_choice",
+      "question": "Many types of fan-coils will produce some noise due to the ____________.",
+      "options": ["blower operation", "loose bolts and washers", "slipping belts", "loose filters"],
+      "correct_answer": "blower operation"
+    },
+    {
+      "id": 20,
+      "chapter": 8,
+      "type": "multiple_choice",
+      "question": "To prevent corrosion, steel panel radiators should only be used in ____ systems.",
+      "options": ["hydraulically calibrated", "open-loop", "parallel", "closed-loop"],
+      "correct_answer": "closed-loop"
+    },
+    {
+      "id": 21,
+      "chapter": 8,
+      "type": "true_false",
+      "question": "Finned-tube baseboard convectors operate on the principle that heated air rises due to its lower density.",
+      "correct_answer": "True"
+    },
+    {
+      "id": 22,
+      "chapter": 8,
+      "type": "multiple_choice",
+      "question": "The heat output of finned-tube baseboard is expressed in Btu/hr./ft. of active element length. The active length of the element is the length of pipe ____.",
+      "options": ["under a source of downward drafts", "covered with fins", "in the entire assembly", "nearest the riser’s centerline"],
+      "correct_answer": "covered with fins"
+    },
+    {
+      "id": 23,
+      "chapter": 8,
+      "type": "multiple_choice",
+      "question": "One way that heat loss of bare copper tube can be evaluated is when the length of the copper tube in feet divided by the flow rate in gallons per minute exceeds ____ ft./gpm, there will be a greater temperature drop along the tube from inlet to outlet.",
+      "options": ["5", "10", "15", "20"],
+      "correct_answer": "20"
+    },
+    {
+      "id": 24,
+      "chapter": 8,
+      "type": "multiple_choice",
+      "question": "Increasing the fluid flow rate through the coil will ____ increase the heating capacity of the fan-coil.",
+      "options": ["unpredictably", "marginally", "never", "greatly"],
+      "correct_answer": "marginally"
+    },
+    {
+      "id": 25,
+      "chapter": 8,
+      "type": "multiple_choice",
+      "question": "One of the most practical methods for connecting baseboards into parallel circuits in residential and light commercial systems is called a _______________.",
+      "options": ["pressure distribution system", "thermal distribution system", "moisture control system", "homerun distribution system"],
+      "correct_answer": "homerun distribution system"
+    }
+  ]
+}
