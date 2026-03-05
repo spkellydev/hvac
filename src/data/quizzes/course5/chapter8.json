@@ -77,7 +77,7 @@
       "chapter": 8,
       "type": "true_false",
       "question": "Parallel piping methods allow independent flow rate adjustment for each baseboard.",
-      "correct_answer": "False"
+      "correct_answer": "True"
     },
     {
       "id": 11,

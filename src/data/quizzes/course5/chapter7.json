@@ -161,7 +161,7 @@
       "chapter": 7,
       "type": "true_false",
       "question": "Always install the circulator so that its inlet is close to the connection point of the system's expansion tank.",
-      "correct_answer": "False"
+      "correct_answer": "True"
     },
     {
       "id": 22,
