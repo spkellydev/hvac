@@ -193,7 +193,7 @@
       "type": "multiple_choice",
       "question": "There is ___ universal standard for piping symbols to which all those in the industry subscribe.",
       "options": ["one", "a code-enforced", "a rigid", "no"],
-      "correct_answer": "no"
+      "correct_answer": "a rigid"
     }
   ]
 }
