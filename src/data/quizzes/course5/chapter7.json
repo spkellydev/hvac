@@ -45,7 +45,7 @@
       "chapter": 7,
       "type": "true_false",
       "question": "The pump curve for two identical circulators connected in parallel is obtained by doubling the flow rate of a single circulator at each head value.",
-      "correct_answer": "False"
+      "correct_answer": "True"
     },
     {
       "id": 7,
